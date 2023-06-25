@@ -1,0 +1,44 @@
+nav.nav-wrapper {
+  margin: 0;
+  width: 100%;
+  min-width: 320px;
+  height: 48px;
+  max-height: 44px;
+  font-size: 17px;
+  background-color: #f2f2f2;
+}
+
+nav .nav-content {
+  margin: 0 auto;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 1024px;
+  padding: 0 22px;
+}
+
+nav .list-styled {
+  cursor: default;
+  margin: 0 -9px;
+  width: auto;
+  height: 44px;
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+}
+
+nav .link-styled {
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 44px;
+  color: #000000cc;
+}
+img {
+  height: 40px;
+  width: 60px;
+  object-fit: cover;
+}

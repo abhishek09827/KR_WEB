@@ -1,0 +1,25 @@
+@import url("https://fonts.cdnfonts.com/css/sf-pro-display");
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  font-family: "SF Pro Display", SF Pro Icons, Helvetica Neue, Helvetica, Arial,
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f5f5f7;
+  color: black;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}

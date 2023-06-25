@@ -1,0 +1,19 @@
+.text_screen {
+  display: flex;
+
+  flex-direction: column;
+}
+
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+.main img {
+  mix-blend-mode: darken;
+  height: 180px;
+  width: fit-content;
+  border-radius: 50%;
+  object-fit: contain;
+}

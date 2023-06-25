@@ -1,0 +1,1011 @@
+﻿Index,State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_x0020_Price,Max_x0020_Price,Modal_x0020_Price
+0,Andhra Pradesh,Chittor,Chittoor,Gur(Jaggery),NO 2,FAQ,28-05-2023,3200,3400,3200
+1,Andhra Pradesh,Chittor,Chittoor,Mango,Badami,Medium,28-05-2023,1800,2300,2000
+2,Andhra Pradesh,Chittor,Chittoor,Mango,Other,Medium,28-05-2023,1300,2000,1800
+3,Andhra Pradesh,Chittor,Chittoor,Mango,Totapuri,Medium,28-05-2023,1900,2000,1950
+4,Andhra Pradesh,Chittor,Punganur,Tomato,Hybrid,FAQ,28-05-2023,940,1070,1000
+5,Bihar,Banka,Rajaun,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,800,1000,900
+6,Bihar,Banka,Rajaun,Brinjal,Arkasheela Mattigulla,FAQ,28-05-2023,2000,2200,2100
+7,Bihar,Banka,Rajaun,Brinjal,Brinjal,FAQ,28-05-2023,1600,1800,1700
+8,Bihar,Banka,Rajaun,Onion,1st Sort,FAQ,28-05-2023,1400,1600,1500
+9,Bihar,Banka,Rajaun,Potato,(Red Nanital),FAQ,28-05-2023,800,1000,900
+10,Bihar,Bhagalpur,Bhagalpur,Banana,Other,Large,28-05-2023,3400,3600,3500
+11,Bihar,Bhagalpur,Bhagalpur,Banana,Other,Medium,28-05-2023,3100,3300,3200
+12,Bihar,Bhagalpur,Bhagalpur,Banana,Other,Small,28-05-2023,2800,3000,2900
+13,Bihar,Bhagalpur,Bhagalpur,Karbuja(Musk Melon),Karbhuja,Large,28-05-2023,2300,2500,2400
+14,Bihar,Bhagalpur,Bhagalpur,Karbuja(Musk Melon),Karbhuja,Medium,28-05-2023,2100,2200,2150
+15,Bihar,Bhagalpur,Bhagalpur,Karbuja(Musk Melon),Karbhuja,Small,28-05-2023,1800,2000,1900
+16,Bihar,Bhagalpur,Bhagalpur,Papaya,Other,Large,28-05-2023,3600,3800,3700
+17,Bihar,Bhagalpur,Bhagalpur,Papaya,Other,Medium,28-05-2023,3300,3500,3400
+18,Bihar,Bhagalpur,Bhagalpur,Papaya,Other,Small,28-05-2023,3000,3200,3100
+19,Bihar,Bhagalpur,Bhagalpur,Water Melon,Water Melon,Large,28-05-2023,2200,2500,2400
+20,Bihar,Bhagalpur,Bhagalpur,Water Melon,Water Melon,Medium,28-05-2023,1800,2000,1900
+21,Bihar,Kaimur/Bhabhua,Mohana,Onion,Other,FAQ,28-05-2023,1400,1600,1500
+22,Bihar,Kaimur/Bhabhua,Mohana,Sponge gourd,Other,FAQ,28-05-2023,2100,2300,2200
+23,Bihar,Kaimur/Bhabhua,Mohana,Tomato,Hybrid,FAQ,28-05-2023,2000,2200,2100
+24,Bihar,Nawada,Rajauli,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,2000,2200,2100
+25,Bihar,Nawada,Rajauli,Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,2000,2300,2100
+26,Bihar,Nawada,Rajauli,Onion,1st Sort,FAQ,28-05-2023,1400,1700,1600
+27,Bihar,Nawada,Rajauli,Potato,(Red Nanital),FAQ,28-05-2023,1100,1300,1200
+28,Bihar,Nawada,Rajauli,Tomato,Deshi,FAQ,28-05-2023,2200,2500,2300
+29,Chattisgarh,Mahasamund,Sarayapali,Paddy(Dhan)(Common),MTU-1001,FAQ,28-05-2023,1515,1525,1520
+30,Chattisgarh,Raigarh,Sarangarh,Paddy(Dhan)(Common),Paddy Coarse,FAQ,28-05-2023,1500,1600,1550
+31,Gujarat,Ahmedabad,Mandal,Arhar (Tur/Red Gram)(Whole),Arhar (Whole),FAQ,28-05-2023,6000,9125,7562
+32,Gujarat,Ahmedabad,Mandal,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,28-05-2023,3750,5500,5335
+33,Gujarat,Ahmedabad,Mandal,Castor Seed,Castor seed,FAQ,28-05-2023,5375,5505,5440
+34,Gujarat,Ahmedabad,Mandal,Corriander seed,Other,FAQ,28-05-2023,5100,5700,5400
+35,Gujarat,Ahmedabad,Mandal,Cummin Seed(Jeera),Other,FAQ,28-05-2023,39005,43755,41380
+36,Gujarat,Ahmedabad,Mandal,Isabgul (Psyllium),Other,FAQ,28-05-2023,13500,19500,16500
+37,Gujarat,Ahmedabad,Mandal,Suva (Dill Seed),Suva (Dill Seed),FAQ,28-05-2023,12505,14005,13255
+38,Gujarat,Ahmedabad,Mandal,Wheat,Other,FAQ,28-05-2023,1750,2510,2130
+39,Gujarat,Amreli,Damnagar,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,850,1250,1100
+40,Gujarat,Amreli,Damnagar,Brinjal,Other,FAQ,28-05-2023,600,1000,750
+41,Gujarat,Amreli,Damnagar,Cabbage,Cabbage,FAQ,28-05-2023,1000,1200,1150
+42,Gujarat,Amreli,Damnagar,Cauliflower,Cauliflower,FAQ,28-05-2023,4100,5000,4750
+43,Gujarat,Amreli,Damnagar,Coriander(Leaves),Coriander,FAQ,28-05-2023,2200,3000,2850
+44,Gujarat,Amreli,Damnagar,Ginger(Green),Green Ginger,FAQ,28-05-2023,13000,15000,14500
+45,Gujarat,Amreli,Damnagar,Green Chilli,Green Chilly,FAQ,28-05-2023,4100,5000,4350
+46,Gujarat,Amreli,Damnagar,Guar,Gwar,FAQ,28-05-2023,2100,2500,2350
+47,Gujarat,Amreli,Damnagar,Lemon,Lemon,FAQ,28-05-2023,3300,4000,3750
+48,Gujarat,Amreli,Damnagar,Tomato,Local,FAQ,28-05-2023,400,800,550
+49,Haryana,Hissar,Hansi,Apple,Other,Medium,28-05-2023,10000,12000,11000
+50,Haryana,Hissar,Hansi,Bhindi(Ladies Finger),Other,FAQ,28-05-2023,1200,1200,1200
+51,Haryana,Hissar,Hansi,Brinjal,Other,FAQ,28-05-2023,600,800,700
+52,Haryana,Hissar,Hansi,Cabbage,Other,FAQ,28-05-2023,500,500,500
+53,Haryana,Hissar,Hansi,Carrot,Other,FAQ,28-05-2023,4000,4000,4000
+54,Haryana,Hissar,Hansi,Cauliflower,Other,FAQ,28-05-2023,1500,1500,1500
+55,Haryana,Hissar,Hansi,Chikoos(Sapota),Other,Medium,28-05-2023,2000,3000,2500
+56,Haryana,Hissar,Hansi,Cucumbar(Kheera),Other,FAQ,28-05-2023,1200,1500,1300
+57,Haryana,Hissar,Hansi,Grapes,Other,Medium,28-05-2023,3000,6000,3000
+58,Haryana,Hissar,Hansi,Lemon,Other,FAQ,28-05-2023,4000,5000,4500
+59,Haryana,Hissar,Hansi,Mango,Other,Medium,28-05-2023,1000,4000,3000
+60,Haryana,Hissar,Hansi,Mousambi(Sweet Lime),Other,Medium,28-05-2023,4000,4500,4200
+61,Haryana,Hissar,Hansi,Onion,Other,FAQ,28-05-2023,800,800,800
+62,Haryana,Hissar,Hansi,Peas Wet,Other,FAQ,28-05-2023,4500,4500,4500
+63,Haryana,Hissar,Hansi,Pomegranate,Other,Medium,28-05-2023,4000,8000,6000
+64,Haryana,Hissar,Hansi,Potato,Other,FAQ,28-05-2023,1000,2800,1000
+65,Haryana,Hissar,Hansi,Ridgeguard(Tori),Other,FAQ,28-05-2023,1000,1000,1000
+66,Haryana,Hissar,Hansi,Spinach,Other,FAQ,28-05-2023,1000,1000,1000
+67,Haryana,Hissar,Hansi,Tinda,Other,FAQ,28-05-2023,2000,2000,2000
+68,Haryana,Hissar,Hansi,Tomato,Other,FAQ,28-05-2023,500,600,600
+69,Haryana,Mewat,FerozpurZirkha(Nagina),Bottle gourd,Other,FAQ,28-05-2023,800,1000,900
+70,Haryana,Mewat,FerozpurZirkha(Nagina),Brinjal,Other,FAQ,28-05-2023,1000,1400,1200
+71,Haryana,Mewat,FerozpurZirkha(Nagina),Cauliflower,Other,FAQ,28-05-2023,1000,1400,1200
+72,Haryana,Mewat,FerozpurZirkha(Nagina),Tomato,Other,FAQ,28-05-2023,600,800,700
+73,Himachal Pradesh,Kullu,Bandrol,Apricot(Jardalu/Khumani),Other,Medium,28-05-2023,4000,5800,5000
+74,Himachal Pradesh,Kullu,Bandrol,Cauliflower,Other,FAQ,28-05-2023,1000,2100,1600
+75,Himachal Pradesh,Kullu,Bandrol,Garlic,Other,FAQ,28-05-2023,3500,9800,5500
+76,Himachal Pradesh,Kullu,Bandrol,Peas Wet,Other,FAQ,28-05-2023,1600,2800,2200
+77,Himachal Pradesh,Kullu,Bhuntar,Apricot(Jardalu/Khumani),Other,Medium,28-05-2023,1500,6000,3700
+78,Himachal Pradesh,Kullu,Bhuntar,Banana,Other,Medium,28-05-2023,2580,2700,2640
+79,Himachal Pradesh,Kullu,Bhuntar,Bhindi(Ladies Finger),Other,FAQ,28-05-2023,2000,2500,2200
+80,Himachal Pradesh,Kullu,Bhuntar,Bitter gourd,Bitter Gourd,FAQ,28-05-2023,2000,3000,2500
+81,Himachal Pradesh,Kullu,Bhuntar,Bottle gourd,Other,FAQ,28-05-2023,1300,1400,1350
+82,Himachal Pradesh,Kullu,Bhuntar,Brinjal,Other,FAQ,28-05-2023,2000,2200,2100
+83,Himachal Pradesh,Kullu,Bhuntar,Cabbage,Other,FAQ,28-05-2023,500,600,550
+84,Himachal Pradesh,Kullu,Bhuntar,Capsicum,Other,FAQ,28-05-2023,2000,2200,2100
+85,Himachal Pradesh,Kullu,Bhuntar,Carrot,Other,FAQ,28-05-2023,2200,2400,2300
+86,Himachal Pradesh,Kullu,Bhuntar,Cauliflower,Other,FAQ,28-05-2023,1500,2000,1700
+87,Himachal Pradesh,Kullu,Bhuntar,Coriander(Leaves),Other,FAQ,28-05-2023,5000,5500,5200
+88,Himachal Pradesh,Kullu,Bhuntar,Cucumbar(Kheera),Other,FAQ,28-05-2023,2000,2200,2100
+89,Himachal Pradesh,Kullu,Bhuntar,French Beans (Frasbean),Other,FAQ,28-05-2023,5500,6000,5700
+90,Himachal Pradesh,Kullu,Bhuntar,Garlic,Other,FAQ,28-05-2023,2500,7500,4500
+91,Himachal Pradesh,Kullu,Bhuntar,Grapes,Other,Medium,28-05-2023,10000,12000,11000
+92,Himachal Pradesh,Kullu,Bhuntar,Green Chilli,Other,FAQ,28-05-2023,3000,3500,3200
+93,Himachal Pradesh,Kullu,Bhuntar,Lemon,Other,FAQ,28-05-2023,6000,6500,6200
+94,Himachal Pradesh,Kullu,Bhuntar,Mango (Raw-Ripe),Other,FAQ,28-05-2023,5500,6000,5700
+95,Himachal Pradesh,Kullu,Bhuntar,Onion,Other,FAQ,28-05-2023,1800,2000,1900
+96,Himachal Pradesh,Kullu,Bhuntar,Papaya,Other,Medium,28-05-2023,3500,3800,3600
+97,Himachal Pradesh,Kullu,Bhuntar,Peas Wet,Other,FAQ,28-05-2023,1500,2200,1900
+98,Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,28-05-2023,5000,15000,10000
+99,Himachal Pradesh,Kullu,Bhuntar,Potato,Other,FAQ,28-05-2023,1200,1400,1300
+100,Himachal Pradesh,Kullu,Bhuntar,Pumpkin,Other,FAQ,28-05-2023,2500,2800,2600
+101,Himachal Pradesh,Kullu,Bhuntar,Raddish,Other,FAQ,28-05-2023,1500,2500,2000
+102,Himachal Pradesh,Kullu,Bhuntar,Spinach,Other,FAQ,28-05-2023,1000,1200,1100
+103,Himachal Pradesh,Kullu,Bhuntar,Squash(Chappal Kadoo),Other,FAQ,28-05-2023,600,700,650
+104,Himachal Pradesh,Kullu,Bhuntar,Tomato,Other,FAQ,28-05-2023,1000,1200,1100
+105,Himachal Pradesh,Kullu,Bhuntar,Water Melon,Other,Medium,28-05-2023,1500,1800,1600
+106,Himachal Pradesh,Mandi,Mandi(Takoli),Apricot(Jardalu/Khumani),Other,Medium,28-05-2023,3000,4500,4000
+107,Himachal Pradesh,Mandi,Mandi(Takoli),Cabbage,Other,FAQ,28-05-2023,400,600,500
+108,Himachal Pradesh,Mandi,Mandi(Takoli),Cauliflower,Other,FAQ,28-05-2023,1000,2000,1500
+109,Himachal Pradesh,Mandi,Mandi(Takoli),Onion,Other,FAQ,28-05-2023,1300,1500,1400
+110,Himachal Pradesh,Mandi,Mandi(Takoli),Peas Wet,Other,FAQ,28-05-2023,1000,2500,1800
+111,Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,28-05-2023,6000,9500,8000
+112,Himachal Pradesh,Mandi,Mandi(Takoli),Potato,Other,FAQ,28-05-2023,1000,1200,1100
+113,Himachal Pradesh,Mandi,Mandi(Takoli),Squash(Chappal Kadoo),Other,FAQ,28-05-2023,600,1000,800
+114,Himachal Pradesh,Mandi,Mandi(Takoli),Tomato,Other,FAQ,28-05-2023,1300,1400,1400
+115,Karnataka,Koppal,Kustagi,Groundnut,Gejje,FAQ,28-05-2023,5600,5600,5600
+116,Karnataka,Koppal,Kustagi,Maize,Hybrid/Local,FAQ,28-05-2023,1960,1960,1960
+117,Kerala,Kollam,Chathanoor,Amphophalus,Other,FAQ,28-05-2023,3800,4200,4000
+118,Kerala,Kollam,Chathanoor,Banana,Banana - Ripe,Medium,28-05-2023,5300,5700,5500
+119,Kerala,Kollam,Chathanoor,Banana,Palayamthodan,Medium,28-05-2023,2800,3200,3000
+120,Kerala,Kollam,Chathanoor,Banana,Poovan,Medium,28-05-2023,4800,5200,5000
+121,Kerala,Kollam,Chathanoor,Banana,Red Banana,Medium,28-05-2023,6000,6400,6200
+122,Kerala,Kollam,Chathanoor,Banana,Robusta,Medium,28-05-2023,3300,3700,3500
+123,Kerala,Kollam,Chathanoor,Banana - Green,Other,FAQ,28-05-2023,4600,5000,4800
+124,Kerala,Kollam,Chathanoor,Bhindi(Ladies Finger),Other,FAQ,28-05-2023,3800,4400,4200
+125,Kerala,Kollam,Chathanoor,Bitter gourd,Other,FAQ,28-05-2023,7800,8200,8000
+126,Kerala,Kollam,Chathanoor,Brinjal,Other,FAQ,28-05-2023,3800,4200,4000
+127,Kerala,Kollam,Chathanoor,Cabbage,Other,FAQ,28-05-2023,5300,5700,5500
+128,Kerala,Kollam,Chathanoor,Cowpea(Veg),Other,FAQ,28-05-2023,6800,7200,7000
+129,Kerala,Kollam,Chathanoor,Cucumbar(Kheera),Other,FAQ,28-05-2023,3800,4200,4000
+130,Kerala,Kollam,Chathanoor,Little gourd (Kundru),Other,FAQ,28-05-2023,3800,4200,4000
+131,Kerala,Kollam,Chathanoor,Onion,Other,FAQ,28-05-2023,1800,2200,2000
+132,Kerala,Kollam,Chathanoor,Pumpkin,Other,FAQ,28-05-2023,3300,3700,3500
+133,Kerala,Kollam,Chathanoor,Snakeguard,Other,FAQ,28-05-2023,3800,4200,4000
+134,Kerala,Kollam,Chathanoor,Tomato,Other,FAQ,28-05-2023,4100,4500,4300
+135,Kerala,Kottayam,Pampady,Amaranthus,Amaranthus,FAQ,28-05-2023,3000,3400,3200
+136,Kerala,Kottayam,Pampady,Ashgourd,Other,FAQ,28-05-2023,2000,2400,2200
+137,Kerala,Kottayam,Pampady,Banana,Medium,Medium,28-05-2023,5700,6100,5900
+138,Kerala,Kottayam,Pampady,Banana,Palayamthodan,Medium,28-05-2023,1300,0,1600
+139,Kerala,Kottayam,Pampady,Banana - Green,Banana - Green,FAQ,28-05-2023,5300,5700,5500
+140,Kerala,Kottayam,Pampady,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,2000,2400,2200
+141,Kerala,Kottayam,Pampady,Bitter gourd,Bitter Gourd,FAQ,28-05-2023,3700,4100,3900
+142,Kerala,Kottayam,Pampady,Brinjal,Brinjal,FAQ,28-05-2023,2500,2900,2700
+143,Kerala,Kottayam,Pampady,Cabbage,Other,FAQ,28-05-2023,1600,2100,1800
+144,Kerala,Kottayam,Pampady,Cauliflower,Other,FAQ,28-05-2023,4300,4700,4500
+145,Kerala,Kottayam,Pampady,Coconut,Coconut,FAQ,28-05-2023,3500,3900,3700
+146,Kerala,Kottayam,Pampady,Colacasia,Other,FAQ,28-05-2023,5000,5400,5200
+147,Kerala,Kottayam,Pampady,Cowpea(Veg),Other,FAQ,28-05-2023,3300,3700,3500
+148,Kerala,Kottayam,Pampady,Cucumbar(Kheera),Other,FAQ,28-05-2023,1700,2100,1900
+149,Kerala,Kottayam,Pampady,Drumstick,Other,FAQ,28-05-2023,4500,4900,4700
+150,Kerala,Kottayam,Pampady,Elephant Yam (Suran),Other,FAQ,28-05-2023,5100,5500,5300
+151,Kerala,Kottayam,Pampady,Ginger(Green),Green Ginger,FAQ,28-05-2023,15000,15400,15200
+152,Kerala,Kottayam,Pampady,Green Chilli,Green Chilly,FAQ,28-05-2023,5000,5400,5200
+153,Kerala,Kottayam,Pampady,Indian Beans (Seam),Other,FAQ,28-05-2023,7000,7400,7200
+154,Kerala,Kozhikode(Calicut),Mukkom,Amaranthus,Amaranthus,FAQ,28-05-2023,1200,1600,1400
+155,Kerala,Kozhikode(Calicut),Mukkom,Amphophalus,Amphophalus,FAQ,28-05-2023,1800,2200,2000
+156,Kerala,Kozhikode(Calicut),Mukkom,Apple,Other,Large,28-05-2023,9000,10000,9500
+157,Kerala,Kozhikode(Calicut),Mukkom,Ashgourd,Other,FAQ,28-05-2023,1200,1600,1400
+158,Kerala,Kozhikode(Calicut),Mukkom,Banana,Other,Large,28-05-2023,4200,4600,4400
+159,Kerala,Kozhikode(Calicut),Mukkom,Banana - Green,Banana - Green,FAQ,28-05-2023,3200,3600,3400
+160,Kerala,Kozhikode(Calicut),Mukkom,Beetroot,Beetroot,FAQ,28-05-2023,2000,2400,2200
+161,Kerala,Kozhikode(Calicut),Mukkom,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,3600,4000,3800
+162,Kerala,Kozhikode(Calicut),Mukkom,Bitter gourd,Bitter Gourd,FAQ,28-05-2023,3600,4000,3800
+163,Kerala,Kozhikode(Calicut),Mukkom,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,1200,1600,1400
+164,Kerala,Kozhikode(Calicut),Mukkom,Brinjal,Brinjal,FAQ,28-05-2023,1600,2000,1800
+165,Kerala,Kozhikode(Calicut),Mukkom,Cabbage,Cabbage,FAQ,28-05-2023,1200,1600,1400
+166,Kerala,Kozhikode(Calicut),Mukkom,Carrot,Carrot,FAQ,28-05-2023,3200,3600,3400
+167,Kerala,Kozhikode(Calicut),Mukkom,Coconut Seed,Other,FAQ,28-05-2023,1800,2200,2000
+168,Kerala,Kozhikode(Calicut),Mukkom,Cowpea(Veg),Cowpea (Veg),FAQ,28-05-2023,3200,3600,3400
+169,Kerala,Kozhikode(Calicut),Mukkom,Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,1200,1600,1400
+170,Kerala,Kozhikode(Calicut),Mukkom,Drumstick,Drumstick,FAQ,28-05-2023,3600,4000,3800
+171,Kerala,Kozhikode(Calicut),Mukkom,Ginger(Green),Green Ginger,FAQ,28-05-2023,2200,2600,2400
+172,Kerala,Kozhikode(Calicut),Mukkom,Grapes,Other,Large,28-05-2023,7000,8000,7500
+173,Kerala,Kozhikode(Calicut),Mukkom,Green Chilli,Green Chilly,FAQ,28-05-2023,1600,2000,1800
+174,Kerala,Kozhikode(Calicut),Mukkom,Onion,Onion,FAQ,28-05-2023,1600,2000,1800
+175,Kerala,Kozhikode(Calicut),Mukkom,Orange,Other,Large,28-05-2023,4000,5000,4500
+176,Kerala,Kozhikode(Calicut),Mukkom,Pineapple,Other,Large,28-05-2023,1600,2000,1800
+177,Kerala,Kozhikode(Calicut),Mukkom,Potato,Other,FAQ,28-05-2023,1600,2000,1800
+178,Kerala,Kozhikode(Calicut),Mukkom,Pumpkin,Pumpkin,FAQ,28-05-2023,1200,1600,1400
+179,Kerala,Kozhikode(Calicut),Mukkom,Snakeguard,Snakeguard,FAQ,28-05-2023,1600,2000,1800
+180,Kerala,Kozhikode(Calicut),Mukkom,Tomato,Tomato,FAQ,28-05-2023,800,1200,1000
+181,Kerala,Thirssur,Mattathur,Ashgourd,Ashgourd,FAQ,28-05-2023,1300,1800,1500
+182,Kerala,Thirssur,Mattathur,Banana,Nendra Bale,Medium,28-05-2023,3400,3800,3600
+183,Kerala,Thirssur,Mattathur,Banana,Palayamthodan,Medium,28-05-2023,1000,1700,1400
+184,Kerala,Thirssur,Mattathur,Banana,Robusta,Medium,28-05-2023,1200,1600,1400
+185,Kerala,Thirssur,Mattathur,Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,1500,2500,2000
+186,Kerala,Thirssur,Mattathur,Tapioca,Tapioca,FAQ,28-05-2023,2300,2500,2400
+187,Madhya Pradesh,Dewas,Khategaon,Wheat,Other,FAQ,28-05-2023,1900,2740,2150
+188,Madhya Pradesh,Jhabua,Jhabua,Cotton,Desi,FAQ,28-05-2023,6800,6818,6809
+189,Madhya Pradesh,Jhabua,Jhabua,Green Gram (Moong)(Whole),Green (Whole),FAQ,28-05-2023,5564,5564,5564
+190,Madhya Pradesh,Jhabua,Jhabua,Soyabean,Soyabeen,FAQ,28-05-2023,4650,4710,4680
+191,Madhya Pradesh,Jhabua,Jhabua,Wheat,Local,FAQ,28-05-2023,2150,2200,2175
+192,Madhya Pradesh,Panna,Devandranagar,Wheat,Other,FAQ,28-05-2023,2130,2142,2142
+193,Madhya Pradesh,Satna,Ramnagar,Wheat,Other,FAQ,28-05-2023,2200,2250,2230
+194,Maharashtra,Ahmednagar,Rahata,Beans,Other,FAQ,28-05-2023,10000,10000,10000
+195,Maharashtra,Ahmednagar,Rahata,Beetroot,Other,FAQ,28-05-2023,1000,1000,1000
+196,Maharashtra,Ahmednagar,Rahata,Bhindi(Ladies Finger),Other,FAQ,28-05-2023,1200,3000,2100
+197,Maharashtra,Ahmednagar,Rahata,Bitter gourd,Other,FAQ,28-05-2023,2000,3000,2500
+198,Maharashtra,Ahmednagar,Rahata,Bottle gourd,Other,FAQ,28-05-2023,500,2000,1200
+199,Maharashtra,Ahmednagar,Rahata,Brinjal,Other,FAQ,28-05-2023,600,1600,1100
+200,Maharashtra,Ahmednagar,Rahata,Cabbage,Other,FAQ,28-05-2023,300,700,500
+201,Maharashtra,Ahmednagar,Rahata,Carrot,Other,FAQ,28-05-2023,1500,1600,1550
+202,Maharashtra,Ahmednagar,Rahata,Cauliflower,Other,FAQ,28-05-2023,500,1500,1000
+203,Maharashtra,Ahmednagar,Rahata,Chilly Capsicum,Other,FAQ,28-05-2023,1500,3000,2200
+204,Maharashtra,Ahmednagar,Rahata,Coriander(Leaves),Other,FAQ,28-05-2023,5,25,15
+205,Maharashtra,Ahmednagar,Rahata,Cucumbar(Kheera),Other,FAQ,28-05-2023,600,1200,900
+206,Maharashtra,Ahmednagar,Rahata,Drumstick,Other,FAQ,28-05-2023,1000,3500,2200
+207,Maharashtra,Ahmednagar,Rahata,Garlic,Other,FAQ,28-05-2023,5000,7000,6000
+208,Maharashtra,Ahmednagar,Rahata,Ginger(Green),Other,FAQ,28-05-2023,10000,14000,12000
+209,Maharashtra,Ahmednagar,Rahata,Green Chilli,Other,FAQ,28-05-2023,2500,4000,3200
+210,Maharashtra,Ahmednagar,Rahata,Guar,Other,FAQ,28-05-2023,1500,3000,2200
+211,Maharashtra,Ahmednagar,Rahata,Lime,Other,FAQ,28-05-2023,3000,4000,3500
+212,Maharashtra,Ahmednagar,Rahata,Mango (Raw-Ripe),Other,FAQ,28-05-2023,1500,3000,2200
+213,Maharashtra,Ahmednagar,Rahata,Methi(Leaves),Other,FAQ,28-05-2023,15,15,15
+214,Maharashtra,Ahmednagar,Rahata,Mint(Pudina),Other,FAQ,28-05-2023,8,8,8
+215,Maharashtra,Ahmednagar,Rahata,Potato,Other,FAQ,28-05-2023,1500,1600,1550
+216,Maharashtra,Ahmednagar,Rahata,Ridgeguard(Tori),Other,FAQ,28-05-2023,2000,2500,2200
+217,Maharashtra,Ahmednagar,Rahata,Spinach,Other,FAQ,28-05-2023,7,7,7
+218,Maharashtra,Ahmednagar,Rahata,Tomato,Other,FAQ,28-05-2023,200,800,500
+219,Maharashtra,Ahmednagar,Rahuri,Bhindi(Ladies Finger),Other,FAQ,28-05-2023,800,3000,1900
+220,Maharashtra,Ahmednagar,Rahuri,Cabbage,Other,FAQ,28-05-2023,300,1300,800
+221,Maharashtra,Ahmednagar,Rahuri,Carrot,Other,FAQ,28-05-2023,2000,2200,2100
+222,Maharashtra,Ahmednagar,Rahuri,Cauliflower,Other,FAQ,28-05-2023,1000,2000,1500
+223,Maharashtra,Ahmednagar,Rahuri,Garlic,Other,FAQ,28-05-2023,5000,10000,7500
+224,Maharashtra,Ahmednagar,Rahuri,Ginger(Green),Other,FAQ,28-05-2023,10000,13000,11500
+225,Maharashtra,Ahmednagar,Rahuri,Guar,Other,FAQ,28-05-2023,2500,6500,4250
+226,Maharashtra,Ahmednagar,Rahuri,Potato,Other,FAQ,28-05-2023,800,1800,1300
+227,Maharashtra,Ahmednagar,Rahuri,Tomato,Other,FAQ,28-05-2023,300,1300,800
+228,Maharashtra,Kolhapur,Kolhapur,Brinjal,Other,FAQ,28-05-2023,800,4000,3500
+229,Maharashtra,Kolhapur,Kolhapur,Cabbage,Other,FAQ,28-05-2023,300,900,600
+230,Maharashtra,Kolhapur,Kolhapur,Cauliflower,Other,FAQ,28-05-2023,750,1750,1250
+231,Maharashtra,Kolhapur,Kolhapur,Coriander(Leaves),Other,FAQ,28-05-2023,3500,7500,5500
+232,Maharashtra,Kolhapur,Kolhapur,Green Chilli,Other,FAQ,28-05-2023,1000,3000,2000
+233,Maharashtra,Kolhapur,Kolhapur,Tomato,Other,FAQ,28-05-2023,500,1000,800
+234,Maharashtra,Pune,Pune(Khadiki),Beetroot,Other,FAQ,28-05-2023,1400,1400,1400
+235,Maharashtra,Pune,Pune(Khadiki),Bhindi(Ladies Finger),Other,FAQ,28-05-2023,2000,2500,2250
+236,Maharashtra,Pune,Pune(Khadiki),Bottle gourd,Other,FAQ,28-05-2023,1300,1600,1450
+237,Maharashtra,Pune,Pune(Khadiki),Cabbage,Other,FAQ,28-05-2023,600,800,700
+238,Maharashtra,Pune,Pune(Khadiki),Carrot,Other,FAQ,28-05-2023,1200,1600,1400
+239,Maharashtra,Pune,Pune(Khadiki),Cauliflower,Other,FAQ,28-05-2023,700,1000,850
+240,Maharashtra,Pune,Pune(Khadiki),Coriander(Leaves),Other,FAQ,28-05-2023,8,10,9
+241,Maharashtra,Pune,Pune(Khadiki),Cucumbar(Kheera),Other,FAQ,28-05-2023,1000,1500,1250
+242,Maharashtra,Pune,Pune(Khadiki),Drumstick,Other,FAQ,28-05-2023,1400,1400,1400
+243,Maharashtra,Pune,Pune(Khadiki),Green Chilli,Other,FAQ,28-05-2023,3500,3500,3500
+244,Maharashtra,Pune,Pune(Khadiki),Guar,Other,FAQ,28-05-2023,3500,3500,3500
+245,Maharashtra,Pune,Pune(Khadiki),Methi(Leaves),Other,FAQ,28-05-2023,7,9,8
+246,Maharashtra,Pune,Pune(Khadiki),Mint(Pudina),Other,FAQ,28-05-2023,3,3,3
+247,Maharashtra,Pune,Pune(Khadiki),Onion,Local,FAQ,28-05-2023,500,900,700
+248,Maharashtra,Pune,Pune(Khadiki),Potato,Other,FAQ,28-05-2023,1200,1400,1300
+249,Maharashtra,Pune,Pune(Khadiki),Ridgeguard(Tori),Other,FAQ,28-05-2023,2000,2000,2000
+250,Maharashtra,Pune,Pune(Khadiki),Spinach,Other,FAQ,28-05-2023,7,7,7
+251,Maharashtra,Pune,Pune(Khadiki),Tomato,Local,FAQ,28-05-2023,500,1000,750
+252,Maharashtra,Pune,Pune(Moshi),Apple,Other,FAQ,28-05-2023,8000,8000,8000
+253,Maharashtra,Pune,Pune(Moshi),Banana,Other,FAQ,28-05-2023,1000,4000,2500
+254,Maharashtra,Pune,Pune(Moshi),Beans,Other,FAQ,28-05-2023,3000,5000,4000
+255,Maharashtra,Pune,Pune(Moshi),Beetroot,Other,FAQ,28-05-2023,1000,2000,1500
+256,Maharashtra,Pune,Pune(Moshi),Bhindi(Ladies Finger),Other,FAQ,28-05-2023,1000,2500,1750
+257,Maharashtra,Pune,Pune(Moshi),Bitter gourd,Other,FAQ,28-05-2023,2000,3000,2500
+258,Maharashtra,Pune,Pune(Moshi),Bottle gourd,Other,FAQ,28-05-2023,1000,2000,1500
+259,Maharashtra,Pune,Pune(Moshi),Brinjal,Other,FAQ,28-05-2023,1200,3000,2100
+260,Maharashtra,Pune,Pune(Moshi),Cabbage,Other,FAQ,28-05-2023,500,800,650
+261,Maharashtra,Pune,Pune(Moshi),Carrot,Other,FAQ,28-05-2023,1200,2000,1600
+262,Maharashtra,Pune,Pune(Moshi),Cauliflower,Other,FAQ,28-05-2023,300,1000,650
+263,Maharashtra,Pune,Pune(Moshi),Chikoos(Sapota),Other,FAQ,28-05-2023,3000,3000,3000
+264,Maharashtra,Pune,Pune(Moshi),Chilly Capsicum,Other,FAQ,28-05-2023,3000,4000,3500
+265,Maharashtra,Pune,Pune(Moshi),Coriander(Leaves),Other,FAQ,28-05-2023,10,15,13
+266,Maharashtra,Pune,Pune(Moshi),Cucumbar(Kheera),Other,FAQ,28-05-2023,1000,1500,1250
+267,Maharashtra,Pune,Pune(Moshi),Drumstick,Other,FAQ,28-05-2023,2000,3000,2500
+268,Maharashtra,Pune,Pune(Moshi),Elephant Yam (Suran),Other,FAQ,28-05-2023,3000,3000,3000
+269,Maharashtra,Pune,Pune(Moshi),Ginger(Green),Other,FAQ,28-05-2023,6000,7000,6500
+270,Maharashtra,Pune,Pune(Moshi),Green Chilli,Other,FAQ,28-05-2023,3000,4000,3500
+271,Maharashtra,Pune,Pune(Moshi),Guar,Other,FAQ,28-05-2023,3000,5000,4000
+272,Maharashtra,Pune,Pune(Moshi),Jack Fruit,Other,FAQ,28-05-2023,2500,2500,2500
+273,Maharashtra,Pune,Pune(Moshi),Lime,Other,FAQ,28-05-2023,3000,4000,3500
+274,Maharashtra,Pune,Pune(Moshi),Mango,Other,FAQ,28-05-2023,7000,10000,8500
+275,Maharashtra,Pune,Pune(Moshi),Mango (Raw-Ripe),Other,FAQ,28-05-2023,1500,2000,1750
+276,Maharashtra,Pune,Pune(Moshi),Methi(Leaves),Other,FAQ,28-05-2023,10,120,11
+277,Maharashtra,Pune,Pune(Moshi),Mint(Pudina),Other,FAQ,28-05-2023,3,4,4
+278,Maharashtra,Pune,Pune(Moshi),Onion,Local,FAQ,28-05-2023,200,800,500
+279,Maharashtra,Pune,Pune(Moshi),Onion Green,Other,FAQ,28-05-2023,10,15,13
+280,Maharashtra,Pune,Pune(Moshi),Orange,Other,FAQ,28-05-2023,7000,7000,7000
+281,Maharashtra,Pune,Pune(Moshi),Papaya,Other,FAQ,28-05-2023,700,1000,850
+282,Maharashtra,Pune,Pune(Moshi),Peas Wet,Other,FAQ,28-05-2023,5000,7000,6000
+283,Maharashtra,Pune,Pune(Moshi),Pineapple,Other,FAQ,28-05-2023,3000,3000,3000
+284,Maharashtra,Pune,Pune(Moshi),Pointed gourd (Parval),Other,FAQ,28-05-2023,2000,3000,2500
+285,Maharashtra,Pune,Pune(Moshi),Pomegranate,Other,FAQ,28-05-2023,7000,7000,7000
+286,Maharashtra,Pune,Pune(Moshi),Potato,Other,FAQ,28-05-2023,800,1000,900
+287,Maharashtra,Pune,Pune(Moshi),Ridgeguard(Tori),Other,FAQ,28-05-2023,3000,4000,3500
+288,Maharashtra,Pune,Pune(Moshi),Spinach,Other,FAQ,28-05-2023,5,6,6
+289,Maharashtra,Pune,Pune(Moshi),Tomato,Local,FAQ,28-05-2023,300,500,400
+290,Maharashtra,Pune,Pune(Moshi),Water Melon,Other,FAQ,28-05-2023,1200,1300,1250
+291,Maharashtra,Pune,Pune(Pimpri),Bhindi(Ladies Finger),Other,FAQ,28-05-2023,2000,3000,2500
+292,Maharashtra,Pune,Pune(Pimpri),Bottle gourd,Other,FAQ,28-05-2023,2000,3000,2500
+293,Maharashtra,Pune,Pune(Pimpri),Brinjal,Other,FAQ,28-05-2023,2500,3500,3000
+294,Maharashtra,Pune,Pune(Pimpri),Cabbage,Other,FAQ,28-05-2023,800,1000,900
+295,Maharashtra,Pune,Pune(Pimpri),Cauliflower,Other,FAQ,28-05-2023,600,1200,900
+296,Maharashtra,Pune,Pune(Pimpri),Coriander(Leaves),Other,FAQ,28-05-2023,7,13,10
+297,Maharashtra,Pune,Pune(Pimpri),Cucumbar(Kheera),Other,FAQ,28-05-2023,1400,1600,1500
+298,Maharashtra,Pune,Pune(Pimpri),Green Chilli,Other,FAQ,28-05-2023,4000,4000,4000
+299,Maharashtra,Pune,Pune(Pimpri),Guar,Other,FAQ,28-05-2023,4500,4500,4500
+300,Maharashtra,Pune,Pune(Pimpri),Mango (Raw-Ripe),Other,FAQ,28-05-2023,3000,3000,3000
+301,Maharashtra,Pune,Pune(Pimpri),Onion,Local,FAQ,28-05-2023,500,700,600
+302,Maharashtra,Pune,Pune(Pimpri),Spinach,Other,FAQ,28-05-2023,6,8,7
+303,Maharashtra,Pune,Pune(Pimpri),Tomato,Local,FAQ,28-05-2023,800,1200,1000
+304,Odisha,Dhenkanal,Hindol,Banana - Green,Other,FAQ,28-05-2023,2200,2400,2300
+305,Odisha,Dhenkanal,Hindol,Beans,Other,FAQ,28-05-2023,4500,5000,4800
+306,Odisha,Dhenkanal,Hindol,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,3200,3500,3400
+307,Odisha,Dhenkanal,Hindol,Bitter gourd,Bitter Gourd,FAQ,28-05-2023,3700,4000,3800
+308,Odisha,Dhenkanal,Hindol,Brinjal,Brinjal,FAQ,28-05-2023,3000,4000,3500
+309,Odisha,Dhenkanal,Hindol,Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,3400,3600,3500
+310,Odisha,Dhenkanal,Hindol,Onion,Other,FAQ,28-05-2023,1400,1600,1500
+311,Odisha,Dhenkanal,Hindol,Pointed gourd (Parval),Other,FAQ,28-05-2023,4000,5000,4500
+312,Odisha,Dhenkanal,Hindol,Potato,Potato,FAQ,28-05-2023,1500,1700,1600
+313,Odisha,Dhenkanal,Hindol,Pumpkin,Pumpkin,FAQ,28-05-2023,1300,1500,1400
+314,Odisha,Dhenkanal,Hindol,Tomato,Tomato,FAQ,28-05-2023,1800,2000,1900
+315,Punjab,Sangrur,Ahmedgarh,Bhindi(Ladies Finger),Other,FAQ,28-05-2023,2000,2200,2100
+316,Punjab,Sangrur,Ahmedgarh,Cucumbar(Kheera),Other,FAQ,28-05-2023,800,950,900
+317,Punjab,Sangrur,Ahmedgarh,Green Chilli,Other,FAQ,28-05-2023,1300,1500,1400
+318,Rajasthan,Jalore,Jalore,Banana,Banana - Ripe,Large,28-05-2023,3000,3500,3200
+319,Rajasthan,Jalore,Jalore,Bhindi(Ladies Finger),Other,FAQ,28-05-2023,1200,1500,1300
+320,Rajasthan,Jalore,Jalore,Bitter gourd,Other,FAQ,28-05-2023,1500,2000,1800
+321,Rajasthan,Jalore,Jalore,Bottle gourd,Other,FAQ,28-05-2023,400,600,500
+322,Rajasthan,Jalore,Jalore,Cabbage,Other,FAQ,28-05-2023,1000,1200,1100
+323,Rajasthan,Jalore,Jalore,Capsicum,Other,FAQ,28-05-2023,3000,3500,3200
+324,Rajasthan,Jalore,Jalore,Cauliflower,Other,FAQ,28-05-2023,2500,3000,2800
+325,Rajasthan,Jalore,Jalore,Coriander(Leaves),Other,FAQ,28-05-2023,3000,3500,3200
+326,Rajasthan,Jalore,Jalore,Cucumbar(Kheera),Other,FAQ,28-05-2023,2000,2500,2200
+327,Rajasthan,Jalore,Jalore,Green Chilli,Other,FAQ,28-05-2023,1500,2000,1800
+328,Rajasthan,Jalore,Jalore,Guar,Gwar,FAQ,28-05-2023,5000,6000,5500
+329,Rajasthan,Jalore,Jalore,Karbuja(Musk Melon),Karbhuja,Large,28-05-2023,800,1000,900
+330,Rajasthan,Jalore,Jalore,Lemon,Other,FAQ,28-05-2023,3000,3500,3200
+331,Rajasthan,Jalore,Jalore,Mango,Badami,Large,28-05-2023,4000,4500,4200
+332,Rajasthan,Jalore,Jalore,Mango (Raw-Ripe),Mango - Raw-Ripe,FAQ,28-05-2023,1500,2000,1800
+333,Rajasthan,Jalore,Jalore,Tinda,Other,FAQ,28-05-2023,1200,1500,1300
+334,Rajasthan,Jalore,Jalore,Tomato,Other,FAQ,28-05-2023,800,1000,900
+335,Rajasthan,Jalore,Jalore,Water Melon,Other,Large,28-05-2023,400,800,600
+336,Telangana,Adilabad,Bhainsa,Cotton,Cotton (Unginned),FAQ,28-05-2023,6500,6700,6600
+337,Telangana,Karimnagar,Gangadhara,Paddy(Dhan)(Common),1001,FAQ,28-05-2023,2040,2040,2040
+338,Telangana,Karimnagar,Peddapalli,Cotton,Cotton (Unginned),FAQ,28-05-2023,6380,6380,6380
+339,Telangana,Khammam,Charla,Paddy(Dhan)(Common),MTU-1010,FAQ,28-05-2023,2030,2060,2040
+340,Telangana,Mahbubnagar,Atmakur,Paddy(Dhan)(Common),Other,FAQ,28-05-2023,2060,2060,2060
+341,Telangana,Mahbubnagar,Makthal,Paddy(Dhan)(Common),Paddy,FAQ,28-05-2023,2430,2430,2430
+342,Telangana,Mahbubnagar,Wanaparthy town,Groundnut,Local,FAQ,28-05-2023,3500,7019,6501
+343,Telangana,Mahbubnagar,Wanaparthy town,Paddy(Dhan)(Common),Hansa,FAQ,28-05-2023,1540,1540,1540
+344,Telangana,Mahbubnagar,Wanaparthy town,Paddy(Dhan)(Common),Sona,FAQ,28-05-2023,1920,2000,2000
+345,Telangana,Medak,Dubbak,Cotton,RCH-2,FAQ,28-05-2023,7400,7400,7400
+346,Telangana,Nalgonda,Huzurnagar,Paddy(Dhan)(Common),B P T,FAQ,28-05-2023,2060,2060,2060
+347,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Banana - Green,Banana - Green,FAQ,28-05-2023,1100,1100,1100
+348,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Beetroot,Beetroot,FAQ,28-05-2023,1900,1900,1900
+349,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,3100,3100,3100
+350,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Bitter gourd,Bitter Gourd,FAQ,28-05-2023,4500,4500,4500
+351,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Bottle gourd,Bottle Gourd,FAQ,28-05-2023,1500,1500,1500
+352,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Brinjal,Arkasheela Mattigulla,FAQ,28-05-2023,2800,2800,2800
+353,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Cabbage,Cabbage,FAQ,28-05-2023,1300,1300,1300
+354,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Capsicum,Capsicum,FAQ,28-05-2023,6500,6500,6500
+355,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Carrot,Carrot,FAQ,28-05-2023,3700,3700,3700
+356,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Cauliflower,African Sarson,FAQ,28-05-2023,2300,2300,2300
+357,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Cluster beans,Cluster Beans,FAQ,28-05-2023,4000,4000,4000
+358,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Colacasia,Colacasia,FAQ,28-05-2023,3500,3500,3500
+359,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,1500,1500,1500
+360,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Drumstick,Drumstick,FAQ,28-05-2023,4700,4700,4700
+361,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Field Pea,Field Pea,FAQ,28-05-2023,5500,5500,5500
+362,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),French Beans (Frasbean),French Beans (Frasbean),FAQ,28-05-2023,6500,6500,6500
+363,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Green Chilli,Green Chilly,FAQ,28-05-2023,4000,4000,4000
+364,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Leafy Vegetable,Leafy Vegetables,FAQ,28-05-2023,1600,1600,1600
+365,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Onion,1st Sort,FAQ,28-05-2023,1200,1200,1200
+366,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Onion Green,Onion Green,FAQ,28-05-2023,3500,3500,3500
+367,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Potato,(Red Nanital),FAQ,28-05-2023,2000,2000,2000
+368,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Pumpkin,Other,FAQ,28-05-2023,1100,1100,1100
+369,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Ridgeguard(Tori),Other,FAQ,28-05-2023,4000,4000,4000
+370,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Snakeguard,Other,FAQ,28-05-2023,1300,1300,1300
+371,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Sweet Potato,Hosur Green,FAQ,28-05-2023,1800,1800,1800
+372,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Tomato,Deshi,FAQ,28-05-2023,1900,1900,1900
+373,Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Yam (Ratalu),Other,FAQ,28-05-2023,5000,5000,5000
+374,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Banana - Green,Banana - Green,FAQ,28-05-2023,1100,1100,1100
+375,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Beetroot,Beetroot,FAQ,28-05-2023,1900,1900,1900
+376,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,3100,3100,3100
+377,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Bitter gourd,Bitter Gourd,FAQ,28-05-2023,4500,4500,4500
+378,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Bottle gourd,Bottle Gourd,FAQ,28-05-2023,1500,1500,1500
+379,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Brinjal,Arkasheela Mattigulla,FAQ,28-05-2023,2800,2800,2800
+380,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Cabbage,Cabbage,FAQ,28-05-2023,1300,1300,1300
+381,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Carrot,Carrot,FAQ,28-05-2023,3700,3700,3700
+382,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Cauliflower,African Sarson,FAQ,28-05-2023,2300,2300,2300
+383,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Cluster beans,Cluster Beans,FAQ,28-05-2023,4000,4000,4000
+384,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Colacasia,Colacasia,FAQ,28-05-2023,3500,3500,3500
+385,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,2100,2100,2100
+386,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Drumstick,Drumstick,FAQ,28-05-2023,400,400,400
+387,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Field Pea,Field Pea,FAQ,28-05-2023,5500,5500,5500
+388,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),French Beans (Frasbean),French Beans (Frasbean),FAQ,28-05-2023,6500,6500,6500
+389,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Green Chilli,Green Chilly,FAQ,28-05-2023,4000,4000,4000
+390,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Leafy Vegetable,Leafy Vegetables,FAQ,28-05-2023,2000,2000,2000
+391,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Onion,1st Sort,FAQ,28-05-2023,1400,1400,1400
+392,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Potato,(Red Nanital),FAQ,28-05-2023,2000,2000,2000
+393,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Ridgeguard(Tori),Other,FAQ,28-05-2023,4000,4000,4000
+394,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Tomato,Deshi,FAQ,28-05-2023,1900,1900,1900
+395,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Tomato,Tomato,FAQ,28-05-2023,1900,1900,1900
+396,Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Yam (Ratalu),Other,FAQ,28-05-2023,5000,5000,5000
+397,Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Banana - Green,Banana - Green,FAQ,28-05-2023,1100,1100,1100
+398,Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Beetroot,Beetroot,FAQ,28-05-2023,1900,1900,1900
+399,Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,3100,3100,3100
+400,Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Bitter gourd,Bitter Gourd,FAQ,28-05-2023,4500,4500,4500
+401,Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Bottle gourd,Bottle Gourd,FAQ,28-05-2023,1500,1500,1500
+402,Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Brinjal,Arkasheela Mattigulla,FAQ,28-05-2023,2800,2800,2800
+403,Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Cabbage,Cabbage,FAQ,28-05-2023,1300,1300,1300
+404,Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Carrot,Carrot,FAQ,28-05-2023,3700,3700,3700
+405,Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Colacasia,Colacasia,FAQ,28-05-2023,3500,3500,3500
+406,Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,1500,1500,1500
+407,Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Drumstick,Drumstick,FAQ,28-05-2023,4700,4700,4700
+408,Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Green Chilli,Green Chilly,FAQ,28-05-2023,4000,4000,4000
+409,Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Leafy Vegetable,Leafy Vegetables,FAQ,28-05-2023,1600,1600,1600
+410,Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Onion,1st Sort,FAQ,28-05-2023,1200,1200,1200
+411,Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Potato,Potato,FAQ,28-05-2023,2000,2000,2000
+412,Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Ridgeguard(Tori),Ridgeguard(Tori),FAQ,28-05-2023,4000,4000,4000
+413,Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Tomato,Deshi,FAQ,28-05-2023,1900,1900,1900
+414,Telangana,Warangal,Hanmarkonda(Rythu Bazar),Beetroot,Beetroot,FAQ,28-05-2023,3600,4000,3800
+415,Telangana,Warangal,Hanmarkonda(Rythu Bazar),Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,2800,3200,3000
+416,Telangana,Warangal,Hanmarkonda(Rythu Bazar),Bitter gourd,Bitter Gourd,FAQ,28-05-2023,4800,5600,5200
+417,Telangana,Warangal,Hanmarkonda(Rythu Bazar),Bottle gourd,Bottle Gourd,FAQ,28-05-2023,1600,2400,2000
+418,Telangana,Warangal,Hanmarkonda(Rythu Bazar),Brinjal,Brinjal,FAQ,28-05-2023,4000,4800,4400
+419,Telangana,Warangal,Hanmarkonda(Rythu Bazar),Cabbage,Cabbage,FAQ,28-05-2023,2800,3200,3000
+420,Telangana,Warangal,Hanmarkonda(Rythu Bazar),Carrot,Carrot,FAQ,28-05-2023,5200,6000,5600
+421,Telangana,Warangal,Hanmarkonda(Rythu Bazar),Cluster beans,Cluster Beans,FAQ,28-05-2023,5200,6000,5600
+422,Telangana,Warangal,Hanmarkonda(Rythu Bazar),Colacasia,Colacasia,FAQ,28-05-2023,4800,5200,5000
+423,Telangana,Warangal,Hanmarkonda(Rythu Bazar),Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,3000,3600,3200
+424,Telangana,Warangal,Hanmarkonda(Rythu Bazar),Green Chilli,Green Chilly,FAQ,28-05-2023,5200,6000,5600
+425,Telangana,Warangal,Hanmarkonda(Rythu Bazar),Indian Beans (Seam),Indian Beans (Seam),FAQ,28-05-2023,5600,6400,6000
+426,Telangana,Warangal,Hanmarkonda(Rythu Bazar),Leafy Vegetable,Leafy Vegetables,FAQ,28-05-2023,2000,2800,2400
+427,Telangana,Warangal,Hanmarkonda(Rythu Bazar),Little gourd (Kundru),Other,FAQ,28-05-2023,2800,3200,3000
+428,Telangana,Warangal,Hanmarkonda(Rythu Bazar),Onion,Big,FAQ,28-05-2023,1800,2000,1800
+429,Telangana,Warangal,Hanmarkonda(Rythu Bazar),Potato,Potato,FAQ,28-05-2023,2000,2400,2200
+430,Telangana,Warangal,Hanmarkonda(Rythu Bazar),Ridgeguard(Tori),Other,FAQ,28-05-2023,5600,6000,6000
+431,Telangana,Warangal,Hanmarkonda(Rythu Bazar),Tomato,Deshi,FAQ,28-05-2023,1600,2000,1800
+432,Telangana,Warangal,Warangal,Beetroot,Beetroot,FAQ,28-05-2023,1800,2000,1900
+433,Telangana,Warangal,Warangal,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,1200,1400,1300
+434,Telangana,Warangal,Warangal,Bitter gourd,Bitter Gourd,FAQ,28-05-2023,3600,4000,3800
+435,Telangana,Warangal,Warangal,Brinjal,Brinjal,FAQ,28-05-2023,1400,1600,1500
+436,Telangana,Warangal,Warangal,Cabbage,Cabbage,FAQ,28-05-2023,1400,1600,1500
+437,Telangana,Warangal,Warangal,Capsicum,Capsicum,FAQ,28-05-2023,3600,4000,3800
+438,Telangana,Warangal,Warangal,Carrot,Carrot,FAQ,28-05-2023,3600,4000,3800
+439,Telangana,Warangal,Warangal,Cauliflower,Cauliflower,FAQ,28-05-2023,3600,4000,3800
+440,Telangana,Warangal,Warangal,Cluster beans,Cluster Beans,FAQ,28-05-2023,3600,4000,3800
+441,Telangana,Warangal,Warangal,Colacasia,Colacasia,FAQ,28-05-2023,3600,4000,3800
+442,Telangana,Warangal,Warangal,Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,1400,1600,1500
+443,Telangana,Warangal,Warangal,Field Pea,Field Pea,FAQ,28-05-2023,5000,5200,5100
+444,Telangana,Warangal,Warangal,French Beans (Frasbean),French Beans (Frasbean),FAQ,28-05-2023,7500,8000,7750
+445,Telangana,Warangal,Warangal,Green Chilli,Green Chilly,FAQ,28-05-2023,4500,5000,4750
+446,Telangana,Warangal,Warangal,Potato,Potato,FAQ,28-05-2023,1800,2000,1900
+447,Telangana,Warangal,Warangal,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,28-05-2023,3000,3200,3100
+448,Telangana,Warangal,Warangal,Tomato,Tomato,FAQ,28-05-2023,1200,1600,1400
+449,Telangana,Warangal,Warangal,Yam (Ratalu),Yam (Ratalu),FAQ,28-05-2023,4000,4500,4250
+450,Tripura,Dhalai,Chowmanu,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,3000,4000,3500
+451,Tripura,Dhalai,Chowmanu,Bitter gourd,Bitter Gourd,FAQ,28-05-2023,4000,5000,4500
+452,Tripura,Dhalai,Chowmanu,Brinjal,Round/Long,FAQ,28-05-2023,3000,4000,3500
+453,Tripura,Dhalai,Chowmanu,Cowpea(Veg),Cowpea (Veg),FAQ,28-05-2023,3000,4000,3500
+454,Uttar Pradesh,Agra,Khairagarh,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,800,900,850
+455,Uttar Pradesh,Agra,Khairagarh,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,800,900,850
+456,Uttar Pradesh,Agra,Khairagarh,Brinjal,Round/Long,FAQ,28-05-2023,1600,1700,1650
+457,Uttar Pradesh,Agra,Khairagarh,Cauliflower,Cauliflower,FAQ,28-05-2023,1200,1300,1250
+458,Uttar Pradesh,Agra,Khairagarh,Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,800,900,850
+459,Uttar Pradesh,Agra,Khairagarh,Mustard,Sarson(Black),FAQ,28-05-2023,4800,4900,4850
+460,Uttar Pradesh,Agra,Khairagarh,Onion,Red,FAQ,28-05-2023,800,900,850
+461,Uttar Pradesh,Agra,Khairagarh,Potato,Desi,FAQ,28-05-2023,650,750,700
+462,Uttar Pradesh,Agra,Khairagarh,Tomato,Deshi,FAQ,28-05-2023,800,900,850
+463,Uttar Pradesh,Aligarh,Khair,Apple,Delicious,Medium,28-05-2023,7700,7900,7800
+464,Uttar Pradesh,Aligarh,Khair,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,28-05-2023,2140,2160,2150
+465,Uttar Pradesh,Aligarh,Khair,Banana,Banana - Ripe,Medium,28-05-2023,2400,2620,2450
+466,Uttar Pradesh,Aligarh,Khair,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,28-05-2023,5450,5520,5500
+467,Uttar Pradesh,Aligarh,Khair,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,1500,1620,1550
+468,Uttar Pradesh,Aligarh,Khair,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,800,890,830
+469,Uttar Pradesh,Aligarh,Khair,Brinjal,Round/Long,FAQ,28-05-2023,1000,1100,1040
+470,Uttar Pradesh,Aligarh,Khair,Cabbage,Cabbage,FAQ,28-05-2023,800,920,870
+471,Uttar Pradesh,Aligarh,Khair,Cauliflower,Cauliflower,FAQ,28-05-2023,1500,1620,1550
+472,Uttar Pradesh,Aligarh,Khair,Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,900,1100,1000
+473,Uttar Pradesh,Aligarh,Khair,Garlic,Garlic,FAQ,28-05-2023,3800,4000,3900
+474,Uttar Pradesh,Aligarh,Khair,Ginger(Green),Green Ginger,FAQ,28-05-2023,7600,7710,7650
+475,Uttar Pradesh,Aligarh,Khair,Green Chilli,Green Chilly,FAQ,28-05-2023,1850,2000,1900
+476,Uttar Pradesh,Aligarh,Khair,Gur(Jaggery),Red,FAQ,28-05-2023,3400,3510,3450
+477,Uttar Pradesh,Aligarh,Khair,Maize,Yellow,FAQ,28-05-2023,2300,2400,2360
+478,Uttar Pradesh,Aligarh,Khair,Mango,Dusheri,Medium,28-05-2023,1500,1560,1530
+479,Uttar Pradesh,Aligarh,Khair,Mustard,Sarson(Black),FAQ,28-05-2023,4500,5450,5450
+480,Uttar Pradesh,Aligarh,Khair,Mustard Oil,Mustard Oil,FAQ,28-05-2023,13400,13500,13420
+481,Uttar Pradesh,Aligarh,Khair,Onion,Red,FAQ,28-05-2023,1050,1150,1100
+482,Uttar Pradesh,Aligarh,Khair,Paddy(Dhan)(Basmati),Basmati 1509,FAQ,28-05-2023,3900,4050,4020
+483,Uttar Pradesh,Aligarh,Khair,Potato,Desi,FAQ,28-05-2023,850,960,910
+484,Uttar Pradesh,Aligarh,Khair,Pumpkin,Pumpkin,FAQ,28-05-2023,750,860,810
+485,Uttar Pradesh,Aligarh,Khair,Rice,III,FAQ,28-05-2023,2900,3000,2960
+486,Uttar Pradesh,Aligarh,Khair,Spinach,Spinach,FAQ,28-05-2023,900,1000,960
+487,Uttar Pradesh,Aligarh,Khair,Tomato,Hybrid,FAQ,28-05-2023,700,810,760
+488,Uttar Pradesh,Aligarh,Khair,Wheat,Dara,FAQ,28-05-2023,2200,2270,2260
+489,Uttar Pradesh,Allahabad,Ajuha,Onion,Red,FAQ,28-05-2023,1050,1200,1130
+490,Uttar Pradesh,Allahabad,Ajuha,Potato,Desi,FAQ,28-05-2023,800,950,870
+491,Uttar Pradesh,Allahabad,Ajuha,Tomato,Deshi,FAQ,28-05-2023,760,910,850
+492,Uttar Pradesh,Azamgarh,Azamgarh,Onion,Red,FAQ,28-05-2023,1100,1200,1160
+493,Uttar Pradesh,Azamgarh,Azamgarh,Potato,Desi,FAQ,28-05-2023,920,1050,980
+494,Uttar Pradesh,Azamgarh,Azamgarh,Tomato,Hybrid,FAQ,28-05-2023,800,900,850
+495,Uttar Pradesh,Badaun,Babrala,Wheat,Dara,FAQ,28-05-2023,2220,2240,2230
+496,Uttar Pradesh,Badaun,Babrala,Wood,Eucalyptus,FAQ,28-05-2023,395,410,400
+497,Uttar Pradesh,Balrampur,Balrampur,Apple,Delicious,Medium,28-05-2023,8760,8960,8850
+498,Uttar Pradesh,Balrampur,Balrampur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,28-05-2023,11500,11700,11600
+499,Uttar Pradesh,Balrampur,Balrampur,Banana - Green,Banana - Green,FAQ,28-05-2023,1850,2060,1950
+500,Uttar Pradesh,Balrampur,Balrampur,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,28-05-2023,5650,5850,5740
+501,Uttar Pradesh,Balrampur,Balrampur,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,28-05-2023,8000,8200,8100
+502,Uttar Pradesh,Balrampur,Balrampur,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,1060,1280,1175
+503,Uttar Pradesh,Balrampur,Balrampur,Brinjal,Round/Long,FAQ,28-05-2023,1750,1960,1850
+504,Uttar Pradesh,Balrampur,Balrampur,Garlic,Garlic,FAQ,28-05-2023,4650,4880,4775
+505,Uttar Pradesh,Balrampur,Balrampur,Green Chilli,Green Chilly,FAQ,28-05-2023,2120,2330,2225
+506,Uttar Pradesh,Balrampur,Balrampur,Gur(Jaggery),Red,FAQ,28-05-2023,3750,3980,3860
+507,Uttar Pradesh,Balrampur,Balrampur,Lemon,Lemon,FAQ,28-05-2023,4550,4750,4630
+508,Uttar Pradesh,Balrampur,Balrampur,Lentil (Masur)(Whole),Masur Dal,FAQ,28-05-2023,7000,7200,7115
+509,Uttar Pradesh,Balrampur,Balrampur,Maize,Yellow,FAQ,28-05-2023,2130,2340,2235
+510,Uttar Pradesh,Balrampur,Balrampur,Mustard,Lohi Black,FAQ,28-05-2023,5400,5580,5480
+511,Uttar Pradesh,Balrampur,Balrampur,Onion,Red,FAQ,28-05-2023,1130,1340,1235
+512,Uttar Pradesh,Balrampur,Balrampur,Potato,Desi,FAQ,28-05-2023,940,1160,1050
+513,Uttar Pradesh,Balrampur,Balrampur,Raddish,Raddish,FAQ,28-05-2023,1800,2100,2000
+514,Uttar Pradesh,Balrampur,Balrampur,Rice,III,FAQ,28-05-2023,2500,2700,2600
+515,Uttar Pradesh,Balrampur,Balrampur,Tomato,Deshi,FAQ,28-05-2023,1020,1230,1125
+516,Uttar Pradesh,Balrampur,Balrampur,Wheat,Dara,FAQ,28-05-2023,2130,2340,2235
+517,Uttar Pradesh,Balrampur,Balrampur,White Peas,White Peas,FAQ,28-05-2023,5750,5930,5810
+518,Uttar Pradesh,Banda,Atarra,Apple,Kasmir/Shimla - II,Medium,28-05-2023,8600,8750,8670
+519,Uttar Pradesh,Banda,Atarra,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,28-05-2023,10150,10250,10200
+520,Uttar Pradesh,Banda,Atarra,Banana,Banana - Ripe,Medium,28-05-2023,2580,2730,2650
+521,Uttar Pradesh,Banda,Atarra,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,28-05-2023,5335,5335,5335
+522,Uttar Pradesh,Banda,Atarra,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,28-05-2023,8880,8980,8930
+523,Uttar Pradesh,Banda,Atarra,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,750,850,800
+524,Uttar Pradesh,Banda,Atarra,Brinjal,Round/Long,FAQ,28-05-2023,1300,1400,1350
+525,Uttar Pradesh,Banda,Atarra,Garlic,Average,FAQ,28-05-2023,4870,4970,4920
+526,Uttar Pradesh,Banda,Atarra,Gur(Jaggery),Red,FAQ,28-05-2023,3570,3670,3620
+527,Uttar Pradesh,Banda,Atarra,Lentil (Masur)(Whole),Masoor Gola,FAQ,28-05-2023,6000,6000,6000
+528,Uttar Pradesh,Banda,Atarra,Mousambi(Sweet Lime),Mousambi,Medium,28-05-2023,3910,4060,3990
+529,Uttar Pradesh,Banda,Atarra,Onion,Red,FAQ,28-05-2023,900,980,940
+530,Uttar Pradesh,Banda,Atarra,Pomegranate,Pomogranate,Medium,28-05-2023,6050,6190,6120
+531,Uttar Pradesh,Banda,Atarra,Potato,Desi,FAQ,28-05-2023,960,1060,1010
+532,Uttar Pradesh,Banda,Atarra,Pumpkin,Pumpkin,FAQ,28-05-2023,780,880,830
+533,Uttar Pradesh,Banda,Atarra,Rice,III,FAQ,28-05-2023,2400,2490,2440
+534,Uttar Pradesh,Banda,Atarra,Tomato,Deshi,FAQ,28-05-2023,830,930,880
+535,Uttar Pradesh,Banda,Atarra,Wheat,Dara,FAQ,28-05-2023,2125,2220,2175
+536,Uttar Pradesh,Banda,Baberu,Onion,Red,FAQ,28-05-2023,880,1000,935
+537,Uttar Pradesh,Banda,Baberu,Potato,Desi,FAQ,28-05-2023,945,1065,1000
+538,Uttar Pradesh,Banda,Baberu,Tomato,Hybrid,FAQ,28-05-2023,815,935,875
+539,Uttar Pradesh,Bijnor,Kiratpur,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,700,800,750
+540,Uttar Pradesh,Bijnor,Kiratpur,Brinjal,Brinjal,FAQ,28-05-2023,900,1000,950
+541,Uttar Pradesh,Bijnor,Kiratpur,Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,600,700,650
+542,Uttar Pradesh,Bijnor,Kiratpur,Gur(Jaggery),Red,FAQ,28-05-2023,3100,3200,3150
+543,Uttar Pradesh,Bijnor,Kiratpur,Tomato,Deshi,FAQ,28-05-2023,800,900,850
+544,Uttar Pradesh,Bulandshahar,Divai,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,28-05-2023,1800,2000,1900
+545,Uttar Pradesh,Bulandshahar,Divai,Barley (Jau),Dara,FAQ,28-05-2023,1700,1900,1800
+546,Uttar Pradesh,Bulandshahar,Divai,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,1250,1350,1300
+547,Uttar Pradesh,Bulandshahar,Divai,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,1000,1200,1100
+548,Uttar Pradesh,Bulandshahar,Divai,Brinjal,Brinjal,FAQ,28-05-2023,1100,1300,1200
+549,Uttar Pradesh,Bulandshahar,Divai,Capsicum,Capsicum,FAQ,28-05-2023,1300,1500,1400
+550,Uttar Pradesh,Bulandshahar,Divai,Cauliflower,Cauliflower,FAQ,28-05-2023,2200,2300,2250
+551,Uttar Pradesh,Bulandshahar,Divai,Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,1000,1100,1050
+552,Uttar Pradesh,Bulandshahar,Divai,Green Chilli,Green Chilly,FAQ,28-05-2023,900,1100,1000
+553,Uttar Pradesh,Bulandshahar,Divai,Mustard,Laha(Sarsib),FAQ,28-05-2023,5400,5600,5500
+554,Uttar Pradesh,Bulandshahar,Divai,Onion,Red,FAQ,28-05-2023,700,900,800
+555,Uttar Pradesh,Bulandshahar,Divai,Potato,F.A.Q.,FAQ,28-05-2023,400,600,500
+556,Uttar Pradesh,Bulandshahar,Divai,Pumpkin,Pumpkin,FAQ,28-05-2023,800,1000,900
+557,Uttar Pradesh,Bulandshahar,Divai,Tomato,Deshi,FAQ,28-05-2023,500,700,600
+558,Uttar Pradesh,Bulandshahar,Divai,Water Melon,Water Melon,Medium,28-05-2023,600,800,700
+559,Uttar Pradesh,Bulandshahar,Divai,Wheat,Dara,FAQ,28-05-2023,2100,2300,2200
+560,Uttar Pradesh,Bulandshahar,Gulavati,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,900,1100,1000
+561,Uttar Pradesh,Bulandshahar,Gulavati,Brinjal,Other,FAQ,28-05-2023,600,800,700
+562,Uttar Pradesh,Bulandshahar,Gulavati,Cauliflower,Cauliflower,FAQ,28-05-2023,900,1100,1000
+563,Uttar Pradesh,Bulandshahar,Gulavati,Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,1200,1400,1300
+564,Uttar Pradesh,Bulandshahar,Gulavati,Garlic,Desi,FAQ,28-05-2023,3300,3500,3400
+565,Uttar Pradesh,Bulandshahar,Gulavati,Ginger(Green),Green Ginger,FAQ,28-05-2023,2900,3100,3000
+566,Uttar Pradesh,Bulandshahar,Gulavati,Green Chilli,Green Chilly,FAQ,28-05-2023,1500,1700,1600
+567,Uttar Pradesh,Bulandshahar,Gulavati,Karbuja(Musk Melon),Karbhuja,Medium,28-05-2023,1600,1800,1700
+568,Uttar Pradesh,Bulandshahar,Gulavati,Onion,Other,FAQ,28-05-2023,1900,2100,2000
+569,Uttar Pradesh,Bulandshahar,Gulavati,Potato,Other,FAQ,28-05-2023,650,750,700
+570,Uttar Pradesh,Bulandshahar,Gulavati,Pumpkin,Other,FAQ,28-05-2023,700,800,750
+571,Uttar Pradesh,Bulandshahar,Gulavati,Raddish,Other,FAQ,28-05-2023,550,650,600
+572,Uttar Pradesh,Bulandshahar,Gulavati,Water Melon,Other,Medium,28-05-2023,1400,1600,1500
+573,Uttar Pradesh,Etah,Aliganj,Wheat,Dara,FAQ,28-05-2023,2200,2260,2250
+574,Uttar Pradesh,Etah,Kasganj,Apple,Kasmir/Shimla - II,Large,28-05-2023,7400,7710,7530
+575,Uttar Pradesh,Etah,Kasganj,Rice,III,FAQ,28-05-2023,2750,3200,2950
+576,Uttar Pradesh,Farukhabad,Farukhabad,Onion,Red,FAQ,28-05-2023,1050,1200,1125
+577,Uttar Pradesh,Farukhabad,Farukhabad,Potato,Local,FAQ,28-05-2023,700,900,800
+578,Uttar Pradesh,Farukhabad,Farukhabad,Tomato,Hybrid,FAQ,28-05-2023,800,900,840
+579,Uttar Pradesh,Farukhabad,Mohamadabad,Potato,Desi,FAQ,28-05-2023,650,800,750
+580,Uttar Pradesh,Farukhabad,Mohamadabad,Wheat,Dara,FAQ,28-05-2023,2200,2300,2220
+581,Uttar Pradesh,Fatehpur,Fatehpur,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,28-05-2023,5170,5450,5335
+582,Uttar Pradesh,Fatehpur,Fatehpur,Lentil (Masur)(Whole),Other,FAQ,28-05-2023,6100,6300,6200
+583,Uttar Pradesh,Fatehpur,Fatehpur,Mustard,Lohi Black,FAQ,28-05-2023,5200,5550,5450
+584,Uttar Pradesh,Fatehpur,Fatehpur,Onion,Red,FAQ,28-05-2023,1050,1200,1120
+585,Uttar Pradesh,Fatehpur,Fatehpur,Potato,Desi,FAQ,28-05-2023,800,950,860
+586,Uttar Pradesh,Fatehpur,Fatehpur,Tomato,Deshi,FAQ,28-05-2023,800,950,880
+587,Uttar Pradesh,Fatehpur,Fatehpur,Wheat,Dara,FAQ,28-05-2023,2220,2280,2250
+588,Uttar Pradesh,Fatehpur,Khaga,Apple,Delicious,Medium,28-05-2023,5100,5300,5200
+589,Uttar Pradesh,Fatehpur,Khaga,Garlic,Garlic,FAQ,28-05-2023,2700,2900,2800
+590,Uttar Pradesh,Fatehpur,Khaga,Green Chilli,Green Chilly,FAQ,28-05-2023,1700,1900,1800
+591,Uttar Pradesh,Fatehpur,Khaga,Jack Fruit,Jack Fruit,Medium,28-05-2023,700,900,800
+592,Uttar Pradesh,Fatehpur,Khaga,Mustard,Sarson(Black),FAQ,28-05-2023,5400,5600,5500
+593,Uttar Pradesh,Fatehpur,Khaga,Onion,Red,FAQ,28-05-2023,700,900,800
+594,Uttar Pradesh,Fatehpur,Khaga,Potato,Desi,FAQ,28-05-2023,650,800,700
+595,Uttar Pradesh,Fatehpur,Khaga,Pumpkin,Pumpkin,FAQ,28-05-2023,400,600,500
+596,Uttar Pradesh,Fatehpur,Khaga,Rice,III,FAQ,28-05-2023,2100,2300,2200
+597,Uttar Pradesh,Fatehpur,Khaga,Tomato,Hybrid,FAQ,28-05-2023,800,1000,900
+598,Uttar Pradesh,Fatehpur,Khaga,Water Melon,Water Melon,Medium,28-05-2023,600,800,700
+599,Uttar Pradesh,Fatehpur,Khaga,Wheat,Dara,FAQ,28-05-2023,2100,2300,2200
+600,Uttar Pradesh,Fatehpur,Khaga,Wood,Eucalyptus,FAQ,28-05-2023,400,500,450
+601,Uttar Pradesh,Firozabad,Sirsaganj,Apple,Delicious,Medium,28-05-2023,7500,7700,7600
+602,Uttar Pradesh,Firozabad,Sirsaganj,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,28-05-2023,10000,10300,10250
+603,Uttar Pradesh,Firozabad,Sirsaganj,Bajra(Pearl Millet/Cumbu),Hybrid,FAQ,28-05-2023,2340,2360,2350
+604,Uttar Pradesh,Firozabad,Sirsaganj,Banana,Banana - Ripe,Medium,28-05-2023,2300,2500,2400
+605,Uttar Pradesh,Firozabad,Sirsaganj,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,1200,1400,1300
+606,Uttar Pradesh,Firozabad,Sirsaganj,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,28-05-2023,9200,9250,9230
+607,Uttar Pradesh,Firozabad,Sirsaganj,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,650,850,750
+608,Uttar Pradesh,Firozabad,Sirsaganj,Brinjal,Round/Long,FAQ,28-05-2023,940,1140,1040
+609,Uttar Pradesh,Firozabad,Sirsaganj,Cabbage,Cabbage,FAQ,28-05-2023,890,1090,990
+610,Uttar Pradesh,Firozabad,Sirsaganj,Cauliflower,Cauliflower,FAQ,28-05-2023,1450,1650,1550
+611,Uttar Pradesh,Firozabad,Sirsaganj,Cucumbar(Kheera),Other,FAQ,28-05-2023,800,1000,900
+612,Uttar Pradesh,Firozabad,Sirsaganj,Grapes,Green,Medium,28-05-2023,3450,3650,3550
+613,Uttar Pradesh,Firozabad,Sirsaganj,Green Chilli,Green Chilly,FAQ,28-05-2023,1850,2050,1950
+614,Uttar Pradesh,Firozabad,Sirsaganj,Gur(Jaggery),Red,FAQ,28-05-2023,3250,3450,3350
+615,Uttar Pradesh,Firozabad,Sirsaganj,Maize,Hybrid,FAQ,28-05-2023,2290,2310,2300
+616,Uttar Pradesh,Firozabad,Sirsaganj,Onion,Red,FAQ,28-05-2023,1020,1220,1120
+617,Uttar Pradesh,Firozabad,Sirsaganj,Pomegranate,Pomogranate,Large,28-05-2023,6450,6650,6550
+618,Uttar Pradesh,Firozabad,Sirsaganj,Potato,Local,FAQ,28-05-2023,720,920,820
+619,Uttar Pradesh,Firozabad,Sirsaganj,Pumpkin,Pumpkin,FAQ,28-05-2023,700,900,800
+620,Uttar Pradesh,Firozabad,Sirsaganj,Rice,III,FAQ,28-05-2023,2820,3020,2920
+621,Uttar Pradesh,Firozabad,Sirsaganj,Sponge gourd,Sponge gourd,FAQ,28-05-2023,1100,1300,1200
+622,Uttar Pradesh,Firozabad,Sirsaganj,Tomato,Hybrid,FAQ,28-05-2023,620,820,720
+623,Uttar Pradesh,Firozabad,Sirsaganj,Wheat,Dara,FAQ,28-05-2023,2230,2250,2240
+624,Uttar Pradesh,Ghaziabad,Ghaziabad,Apple,Kasmir/Shimla - II,Medium,28-05-2023,7900,8050,8000
+625,Uttar Pradesh,Ghaziabad,Ghaziabad,Arhar (Tur/Red Gram)(Whole),Arhar (Whole),FAQ,28-05-2023,6950,7050,7000
+626,Uttar Pradesh,Ghaziabad,Ghaziabad,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,28-05-2023,10750,10850,10800
+627,Uttar Pradesh,Ghaziabad,Ghaziabad,Banana - Green,Banana - Green,FAQ,28-05-2023,1650,1750,1725
+628,Uttar Pradesh,Ghaziabad,Ghaziabad,Barley (Jau),Dara,FAQ,28-05-2023,2140,2160,2150
+629,Uttar Pradesh,Ghaziabad,Ghaziabad,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,28-05-2023,5750,5850,5800
+630,Uttar Pradesh,Ghaziabad,Ghaziabad,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,1800,1870,1840
+631,Uttar Pradesh,Ghaziabad,Ghaziabad,Bitter gourd,Bitter Gourd,FAQ,28-05-2023,1900,2000,1940
+632,Uttar Pradesh,Ghaziabad,Ghaziabad,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,28-05-2023,8450,8550,8500
+633,Uttar Pradesh,Ghaziabad,Ghaziabad,Black Gram Dal (Urd Dal),Black Gram Dal,FAQ,28-05-2023,9450,9550,9500
+634,Uttar Pradesh,Ghaziabad,Ghaziabad,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,1150,1250,1200
+635,Uttar Pradesh,Ghaziabad,Ghaziabad,Brinjal,Round/Long,FAQ,28-05-2023,1300,1400,1350
+636,Uttar Pradesh,Ghaziabad,Ghaziabad,Capsicum,Capsicum,FAQ,28-05-2023,1800,1900,1840
+637,Uttar Pradesh,Ghaziabad,Ghaziabad,Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,1100,1200,1150
+638,Uttar Pradesh,Ghaziabad,Ghaziabad,Garlic,UP,FAQ,28-05-2023,4350,4450,4400
+639,Uttar Pradesh,Ghaziabad,Ghaziabad,Ginger(Green),Green Ginger,FAQ,28-05-2023,7950,8050,8000
+640,Uttar Pradesh,Ghaziabad,Ghaziabad,Green Chilli,Green Chilly,FAQ,28-05-2023,1750,1850,1830
+641,Uttar Pradesh,Ghaziabad,Ghaziabad,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,28-05-2023,9500,9600,9550
+642,Uttar Pradesh,Ghaziabad,Ghaziabad,Gur(Jaggery),Yellow,FAQ,28-05-2023,4550,4650,4600
+643,Uttar Pradesh,Ghaziabad,Ghaziabad,Karbuja(Musk Melon),Karbhuja,Medium,28-05-2023,1260,1350,1320
+644,Uttar Pradesh,Ghaziabad,Ghaziabad,Maize,Yellow,FAQ,28-05-2023,2365,2385,2375
+645,Uttar Pradesh,Ghaziabad,Ghaziabad,Mango,Safeda,Medium,28-05-2023,3650,3750,3700
+646,Uttar Pradesh,Ghaziabad,Ghaziabad,Mousambi(Sweet Lime),Mousambi,Medium,28-05-2023,2550,2650,2600
+647,Uttar Pradesh,Ghaziabad,Ghaziabad,Mustard,Sarson(Black),FAQ,28-05-2023,5425,5475,5450
+648,Uttar Pradesh,Ghaziabad,Ghaziabad,Mustard Oil,Mustard Oil,FAQ,28-05-2023,12250,12350,12300
+649,Uttar Pradesh,Ghaziabad,Ghaziabad,Onion,Red,FAQ,28-05-2023,1050,1200,1140
+650,Uttar Pradesh,Ghaziabad,Ghaziabad,Papaya,Papaya,Medium,28-05-2023,2350,2450,2400
+651,Uttar Pradesh,Ghaziabad,Ghaziabad,Pomegranate,Pomogranate,Medium,28-05-2023,6400,6500,6450
+652,Uttar Pradesh,Ghaziabad,Ghaziabad,Potato,Desi,FAQ,28-05-2023,1100,1200,1150
+653,Uttar Pradesh,Ghaziabad,Ghaziabad,Pumpkin,Pumpkin,FAQ,28-05-2023,1200,1300,1240
+654,Uttar Pradesh,Ghaziabad,Ghaziabad,Rice,III,FAQ,28-05-2023,2750,2850,2800
+655,Uttar Pradesh,Ghaziabad,Ghaziabad,Sugar,Medium,FAQ,28-05-2023,3840,3860,3850
+656,Uttar Pradesh,Ghaziabad,Ghaziabad,Tomato,Deshi,FAQ,28-05-2023,800,900,850
+657,Uttar Pradesh,Ghaziabad,Ghaziabad,Water Melon,Water Melon,Medium,28-05-2023,700,800,750
+658,Uttar Pradesh,Ghaziabad,Ghaziabad,Wheat,Dara,FAQ,28-05-2023,2310,2330,2320
+659,Uttar Pradesh,Ghaziabad,Ghaziabad,White Peas,White Peas,FAQ,28-05-2023,5450,5550,5500
+660,Uttar Pradesh,Gonda,Nawabganj,Apple,Delicious,Medium,28-05-2023,9000,9200,9100
+661,Uttar Pradesh,Gonda,Nawabganj,Banana - Green,Banana - Green,FAQ,28-05-2023,1800,1840,1820
+662,Uttar Pradesh,Gonda,Nawabganj,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,1450,1550,1500
+663,Uttar Pradesh,Gonda,Nawabganj,Bitter gourd,Bitter Gourd,FAQ,28-05-2023,1720,1780,1750
+664,Uttar Pradesh,Gonda,Nawabganj,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,1020,1090,1060
+665,Uttar Pradesh,Gonda,Nawabganj,Brinjal,Round/Long,FAQ,28-05-2023,1740,1800,1770
+666,Uttar Pradesh,Gonda,Nawabganj,Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,1450,1550,1500
+667,Uttar Pradesh,Gonda,Nawabganj,Garlic,Garlic,FAQ,28-05-2023,4650,4760,4710
+668,Uttar Pradesh,Gonda,Nawabganj,Green Chilli,Green Chilly,FAQ,28-05-2023,2100,2200,2150
+669,Uttar Pradesh,Gonda,Nawabganj,Gur(Jaggery),Red,FAQ,28-05-2023,3850,3950,3900
+670,Uttar Pradesh,Gonda,Nawabganj,Onion,Red,FAQ,28-05-2023,1150,1250,1200
+671,Uttar Pradesh,Gonda,Nawabganj,Paddy(Dhan)(Common),Common,FAQ,28-05-2023,1820,1880,1850
+672,Uttar Pradesh,Gonda,Nawabganj,Pomegranate,Pomogranate,Medium,28-05-2023,6000,6200,6100
+673,Uttar Pradesh,Gonda,Nawabganj,Potato,Desi,FAQ,28-05-2023,1020,1080,1050
+674,Uttar Pradesh,Gonda,Nawabganj,Pumpkin,Pumpkin,FAQ,28-05-2023,870,930,900
+675,Uttar Pradesh,Gonda,Nawabganj,Rice,III,FAQ,28-05-2023,2540,2600,2570
+676,Uttar Pradesh,Gonda,Nawabganj,Tomato,Hybrid,FAQ,28-05-2023,970,1030,1000
+677,Uttar Pradesh,Hamirpur,Muskara,Onion,Red,FAQ,28-05-2023,925,1000,950
+678,Uttar Pradesh,Hamirpur,Muskara,Potato,Desi,FAQ,28-05-2023,1000,1075,1050
+679,Uttar Pradesh,Hamirpur,Muskara,Tomato,Deshi,FAQ,28-05-2023,900,975,950
+680,Uttar Pradesh,Jalaun (Orai),Jalaun,Banana,Banana - Ripe,Medium,28-05-2023,1600,1800,1700
+681,Uttar Pradesh,Jalaun (Orai),Jalaun,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,800,1200,1000
+682,Uttar Pradesh,Jalaun (Orai),Jalaun,Bitter gourd,Bitter Gourd,FAQ,28-05-2023,700,850,800
+683,Uttar Pradesh,Jalaun (Orai),Jalaun,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,400,600,500
+684,Uttar Pradesh,Jalaun (Orai),Jalaun,Brinjal,Round/Long,FAQ,28-05-2023,700,1000,800
+685,Uttar Pradesh,Jalaun (Orai),Jalaun,Cabbage,Cabbage,FAQ,28-05-2023,400,550,500
+686,Uttar Pradesh,Jalaun (Orai),Jalaun,Cauliflower,Cauliflower,FAQ,28-05-2023,1400,1650,1500
+687,Uttar Pradesh,Jalaun (Orai),Jalaun,Colacasia,Colacasia,FAQ,28-05-2023,2350,2600,2500
+688,Uttar Pradesh,Jalaun (Orai),Jalaun,Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,900,1100,1000
+689,Uttar Pradesh,Jalaun (Orai),Jalaun,Green Chilli,Green Chilly,FAQ,28-05-2023,1800,2100,2000
+690,Uttar Pradesh,Jalaun (Orai),Jalaun,Green Peas,Green Peas,FAQ,28-05-2023,2700,3050,2900
+691,Uttar Pradesh,Jalaun (Orai),Jalaun,Jack Fruit,Jack Fruit,Medium,28-05-2023,750,900,800
+692,Uttar Pradesh,Jalaun (Orai),Jalaun,Karbuja(Musk Melon),Karbhuja,Medium,28-05-2023,1150,1300,1200
+693,Uttar Pradesh,Jalaun (Orai),Jalaun,Mango,Dusheri,Medium,28-05-2023,4400,4700,4500
+694,Uttar Pradesh,Jalaun (Orai),Jalaun,Mango,Dusheri,Small,28-05-2023,3500,3700,3600
+695,Uttar Pradesh,Jalaun (Orai),Jalaun,Mango,Other,Medium,28-05-2023,3400,3600,3500
+696,Uttar Pradesh,Jalaun (Orai),Jalaun,Mango (Raw-Ripe),Mango - Raw-Ripe,FAQ,28-05-2023,1000,1500,1300
+697,Uttar Pradesh,Jalaun (Orai),Jalaun,Onion,Red,FAQ,28-05-2023,700,850,800
+698,Uttar Pradesh,Jalaun (Orai),Jalaun,Potato,Desi,FAQ,28-05-2023,900,1050,1025
+699,Uttar Pradesh,Jalaun (Orai),Jalaun,Raddish,Raddish,FAQ,28-05-2023,650,800,700
+700,Uttar Pradesh,Jalaun (Orai),Jalaun,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,28-05-2023,750,900,800
+701,Uttar Pradesh,Jalaun (Orai),Jalaun,Tomato,Deshi,FAQ,28-05-2023,500,850,800
+702,Uttar Pradesh,Jalaun (Orai),Jalaun,Wheat,Dara,FAQ,28-05-2023,2190,2240,2225
+703,Uttar Pradesh,Jalaun (Orai),Jalaun,White Peas,White Peas,FAQ,28-05-2023,3800,4175,3900
+704,Uttar Pradesh,Jalaun (Orai),Orai,Apple,Delicious,Medium,28-05-2023,8400,8600,8500
+705,Uttar Pradesh,Jalaun (Orai),Orai,Banana,Banana - Ripe,Medium,28-05-2023,2300,2500,2400
+706,Uttar Pradesh,Jalaun (Orai),Orai,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,1400,1600,1500
+707,Uttar Pradesh,Jalaun (Orai),Orai,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,800,950,900
+708,Uttar Pradesh,Jalaun (Orai),Orai,Brinjal,Brinjal,FAQ,28-05-2023,1200,1350,1300
+709,Uttar Pradesh,Jalaun (Orai),Orai,Cauliflower,Cauliflower,FAQ,28-05-2023,2000,2200,2100
+710,Uttar Pradesh,Jalaun (Orai),Orai,Garlic,Desi,FAQ,28-05-2023,4600,4800,4700
+711,Uttar Pradesh,Jalaun (Orai),Orai,Green Chilli,Green Chilly,FAQ,28-05-2023,2000,2200,2100
+712,Uttar Pradesh,Jalaun (Orai),Orai,Gur(Jaggery),Red,FAQ,28-05-2023,3500,3650,3600
+713,Uttar Pradesh,Jalaun (Orai),Orai,Lime,Lime,Medium,28-05-2023,4700,5000,4800
+714,Uttar Pradesh,Jalaun (Orai),Orai,Onion,Nasik,FAQ,28-05-2023,900,1000,950
+715,Uttar Pradesh,Jalaun (Orai),Orai,Pomegranate,Pomogranate,Medium,28-05-2023,5700,6000,5800
+716,Uttar Pradesh,Jalaun (Orai),Orai,Potato,Desi,FAQ,28-05-2023,950,1020,1000
+717,Uttar Pradesh,Jalaun (Orai),Orai,Pumpkin,Pumpkin,FAQ,28-05-2023,800,900,850
+718,Uttar Pradesh,Jalaun (Orai),Orai,Tomato,Deshi,FAQ,28-05-2023,800,900,850
+719,Uttar Pradesh,Jhansi,Baruwasagar,Colacasia,Colacasia,FAQ,28-05-2023,2000,2500,2300
+720,Uttar Pradesh,Jhansi,Chirgaon,Brinjal,Round/Long,FAQ,28-05-2023,1200,1260,1230
+721,Uttar Pradesh,Jhansi,Chirgaon,Onion,Red,FAQ,28-05-2023,920,980,950
+722,Uttar Pradesh,Jhansi,Chirgaon,Potato,Desi,FAQ,28-05-2023,990,1050,1020
+723,Uttar Pradesh,Jhansi,Chirgaon,Tomato,Tomato,FAQ,28-05-2023,970,1030,1000
+724,Uttar Pradesh,Jhansi,Gurusarai,Barley (Jau),Dara,FAQ,28-05-2023,1800,1900,1860
+725,Uttar Pradesh,Jhansi,Gurusarai,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,28-05-2023,5335,5335,5335
+726,Uttar Pradesh,Jhansi,Gurusarai,Gur(Jaggery),Yellow,FAQ,28-05-2023,3380,3550,3410
+727,Uttar Pradesh,Jhansi,Gurusarai,Lentil (Masur)(Whole),Masoor Gola,FAQ,28-05-2023,6000,6000,6000
+728,Uttar Pradesh,Jhansi,Gurusarai,Onion,Red,FAQ,28-05-2023,920,1025,970
+729,Uttar Pradesh,Jhansi,Gurusarai,Potato,Desi,FAQ,28-05-2023,980,1060,1030
+730,Uttar Pradesh,Jhansi,Gurusarai,Rice,III,FAQ,28-05-2023,2415,2515,2495
+731,Uttar Pradesh,Jhansi,Gurusarai,Tomato,Local,FAQ,28-05-2023,960,1045,1000
+732,Uttar Pradesh,Jhansi,Gurusarai,Wheat,Dara,FAQ,28-05-2023,2125,2200,2150
+733,Uttar Pradesh,Jhansi,Gurusarai,White Peas,White Peas,FAQ,28-05-2023,4000,4250,4100
+734,Uttar Pradesh,Mahoba,Mahoba,Apple,Royal Delicious,Medium,28-05-2023,8730,8830,8780
+735,Uttar Pradesh,Mahoba,Mahoba,Banana,Banana - Ripe,Medium,28-05-2023,2700,2800,2730
+736,Uttar Pradesh,Mahoba,Mahoba,Barley (Jau),Dara,FAQ,28-05-2023,1750,1850,1790
+737,Uttar Pradesh,Mahoba,Mahoba,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,28-05-2023,5300,5400,5335
+738,Uttar Pradesh,Mahoba,Mahoba,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,1550,1650,1580
+739,Uttar Pradesh,Mahoba,Mahoba,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,800,900,850
+740,Uttar Pradesh,Mahoba,Mahoba,Brinjal,Brinjal,FAQ,28-05-2023,1300,1400,1330
+741,Uttar Pradesh,Mahoba,Mahoba,Green Chilli,Green Chilly,FAQ,28-05-2023,2120,2220,2160
+742,Uttar Pradesh,Mahoba,Mahoba,Groundnut,Big (With Shell),FAQ,28-05-2023,6600,6700,6650
+743,Uttar Pradesh,Mahoba,Mahoba,Gur(Jaggery),Red,FAQ,28-05-2023,3300,3400,3365
+744,Uttar Pradesh,Mahoba,Mahoba,Lemon,Lemon,FAQ,28-05-2023,4700,4800,4760
+745,Uttar Pradesh,Mahoba,Mahoba,Lentil (Masur)(Whole),Masoor Gola,FAQ,28-05-2023,5970,6070,6000
+746,Uttar Pradesh,Mahoba,Mahoba,Mousambi(Sweet Lime),Mousambi,Medium,28-05-2023,4000,4100,4050
+747,Uttar Pradesh,Mahoba,Mahoba,Mustard,Sarson(Black),FAQ,28-05-2023,5400,5500,5450
+748,Uttar Pradesh,Mahoba,Mahoba,Onion,Red,FAQ,28-05-2023,950,1050,1000
+749,Uttar Pradesh,Mahoba,Mahoba,Papaya,Papaya,Medium,28-05-2023,1950,2050,1990
+750,Uttar Pradesh,Mahoba,Mahoba,Pomegranate,Pomogranate,Medium,28-05-2023,6000,6100,6050
+751,Uttar Pradesh,Mahoba,Mahoba,Potato,Local,FAQ,28-05-2023,1020,1120,1080
+752,Uttar Pradesh,Mahoba,Mahoba,Pumpkin,Pumpkin,FAQ,28-05-2023,800,900,820
+753,Uttar Pradesh,Mahoba,Mahoba,Rice,III,FAQ,28-05-2023,2500,2600,2545
+754,Uttar Pradesh,Mahoba,Mahoba,"Sesamum(Sesame,Gingelly,Til)",95/5,FAQ,28-05-2023,12800,12900,12870
+755,Uttar Pradesh,Mahoba,Mahoba,Tomato,Local,FAQ,28-05-2023,850,950,890
+756,Uttar Pradesh,Mahoba,Mahoba,Wheat,Dara,FAQ,28-05-2023,2130,2230,2160
+757,Uttar Pradesh,Mahoba,Mahoba,White Peas,White Peas,FAQ,28-05-2023,4200,4300,4250
+758,Uttar Pradesh,Mainpuri,Bewar,Garlic,Garlic,FAQ,28-05-2023,4000,4500,4250
+759,Uttar Pradesh,Mainpuri,Bewar,Potato,Local,FAQ,28-05-2023,800,900,850
+760,Uttar Pradesh,Mainpuri,Bewar,Wheat,Dara,FAQ,28-05-2023,2200,2240,2220
+761,Uttar Pradesh,Mainpuri,Ghiraur,Apple,Delicious,Medium,28-05-2023,7640,7840,7740
+762,Uttar Pradesh,Mainpuri,Ghiraur,Arhar (Tur/Red Gram)(Whole),Arhar (Whole),FAQ,28-05-2023,6700,6830,6750
+763,Uttar Pradesh,Mainpuri,Ghiraur,Arhar Dal(Tur Dal),Arhar Dal(Tur),FAQ,28-05-2023,10140,10340,10240
+764,Uttar Pradesh,Mainpuri,Ghiraur,Banana,Banana - Ripe,Medium,28-05-2023,2360,2560,2460
+765,Uttar Pradesh,Mainpuri,Ghiraur,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,28-05-2023,5490,5600,5540
+766,Uttar Pradesh,Mainpuri,Ghiraur,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,650,850,750
+767,Uttar Pradesh,Mainpuri,Ghiraur,Brinjal,Round/Long,FAQ,28-05-2023,860,1060,960
+768,Uttar Pradesh,Mainpuri,Ghiraur,Garlic,Garlic,FAQ,28-05-2023,3700,5900,5400
+769,Uttar Pradesh,Mainpuri,Ghiraur,Grapes,Green,Medium,28-05-2023,3470,3670,3570
+770,Uttar Pradesh,Mainpuri,Ghiraur,Green Chilli,Green Chilly,FAQ,28-05-2023,1850,2050,1950
+771,Uttar Pradesh,Mainpuri,Ghiraur,Lemon,Lemon,FAQ,28-05-2023,6080,6280,6180
+772,Uttar Pradesh,Mainpuri,Ghiraur,Maize,Yellow,FAQ,28-05-2023,2200,2400,2300
+773,Uttar Pradesh,Mainpuri,Ghiraur,Onion,Red,FAQ,28-05-2023,1005,1200,1110
+774,Uttar Pradesh,Mainpuri,Ghiraur,Potato,Local,FAQ,28-05-2023,720,920,820
+775,Uttar Pradesh,Mainpuri,Ghiraur,Pumpkin,Pumpkin,FAQ,28-05-2023,690,890,790
+776,Uttar Pradesh,Mainpuri,Ghiraur,Rice,III,FAQ,28-05-2023,2830,3040,2930
+777,Uttar Pradesh,Mainpuri,Ghiraur,Tomato,Hybrid,FAQ,28-05-2023,630,830,730
+778,Uttar Pradesh,Mainpuri,Ghiraur,Wheat,Dara,FAQ,28-05-2023,2125,2325,2225
+779,Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj,Onion,Red,FAQ,28-05-2023,1100,1240,1170
+780,Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj,Potato,Desi,FAQ,28-05-2023,930,1050,985
+781,Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj,Tomato,Hybrid,FAQ,28-05-2023,800,900,860
+782,Uttar Pradesh,Raebarelli,Jayas,Apple,Apple,Medium,28-05-2023,8600,8700,8650
+783,Uttar Pradesh,Raebarelli,Jayas,Banana,Banana - Ripe,Medium,28-05-2023,2550,2600,2575
+784,Uttar Pradesh,Raebarelli,Jayas,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,1260,1350,1300
+785,Uttar Pradesh,Raebarelli,Jayas,Bitter gourd,Bitter Gourd,FAQ,28-05-2023,1200,1300,1260
+786,Uttar Pradesh,Raebarelli,Jayas,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,1060,1150,1100
+787,Uttar Pradesh,Raebarelli,Jayas,Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,1160,1200,1185
+788,Uttar Pradesh,Raebarelli,Jayas,Garlic,Desi,FAQ,28-05-2023,4550,4660,4600
+789,Uttar Pradesh,Raebarelli,Jayas,Ginger(Green),Green Ginger,FAQ,28-05-2023,6460,6550,6500
+790,Uttar Pradesh,Raebarelli,Jayas,Green Chilli,Green Chilly,FAQ,28-05-2023,2260,2350,2300
+791,Uttar Pradesh,Raebarelli,Jayas,Gur(Jaggery),Red,FAQ,28-05-2023,3600,3700,3660
+792,Uttar Pradesh,Raebarelli,Jayas,Jack Fruit,Jack Fruit,Medium,28-05-2023,1360,1450,1400
+793,Uttar Pradesh,Raebarelli,Jayas,Lemon,Lemon,FAQ,28-05-2023,3800,3900,3860
+794,Uttar Pradesh,Raebarelli,Jayas,Onion,Red,FAQ,28-05-2023,1100,1150,1125
+795,Uttar Pradesh,Raebarelli,Jayas,Paddy(Dhan)(Common),Common,FAQ,28-05-2023,2180,2220,2200
+796,Uttar Pradesh,Raebarelli,Jayas,Pointed gourd (Parval),Pointed gourd (Parval),FAQ,28-05-2023,3200,3300,3250
+797,Uttar Pradesh,Raebarelli,Jayas,Potato,Desi,FAQ,28-05-2023,900,1000,965
+798,Uttar Pradesh,Raebarelli,Jayas,Pumpkin,Pumpkin,FAQ,28-05-2023,900,1000,960
+799,Uttar Pradesh,Raebarelli,Jayas,Rice,III,FAQ,28-05-2023,2520,2550,2535
+800,Uttar Pradesh,Raebarelli,Jayas,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,28-05-2023,1260,1350,1300
+801,Uttar Pradesh,Raebarelli,Jayas,Tomato,Hybrid,FAQ,28-05-2023,1000,1050,1025
+802,Uttar Pradesh,Raebarelli,Jayas,Water Melon,Water Melon,Medium,28-05-2023,850,900,875
+803,Uttar Pradesh,Raebarelli,Jayas,Wheat,Dara,FAQ,28-05-2023,2120,2160,2140
+804,Uttar Pradesh,Raebarelli,Raibareilly,Onion,Red,FAQ,28-05-2023,1100,1140,1120
+805,Uttar Pradesh,Raebarelli,Raibareilly,Potato,Desi,FAQ,28-05-2023,970,1000,990
+806,Uttar Pradesh,Raebarelli,Raibareilly,Tomato,Hybrid,FAQ,28-05-2023,925,970,950
+807,Uttar Pradesh,Shahjahanpur,Puwaha,Onion,Red,FAQ,28-05-2023,1050,1250,1150
+808,Uttar Pradesh,Shahjahanpur,Puwaha,Potato,Desi,FAQ,28-05-2023,800,1000,900
+809,Uttar Pradesh,Shahjahanpur,Puwaha,Tomato,Hybrid,FAQ,28-05-2023,650,850,750
+810,Uttar Pradesh,Siddharth Nagar,Naugarh,Apple,Delicious,Medium,28-05-2023,8810,8830,8820
+811,Uttar Pradesh,Siddharth Nagar,Naugarh,Banana - Green,Banana - Green,FAQ,28-05-2023,1940,1960,1950
+812,Uttar Pradesh,Siddharth Nagar,Naugarh,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,28-05-2023,5530,5550,5540
+813,Uttar Pradesh,Siddharth Nagar,Naugarh,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,1510,1530,1520
+814,Uttar Pradesh,Siddharth Nagar,Naugarh,Bitter gourd,Bitter Gourd,FAQ,28-05-2023,1510,1530,1520
+815,Uttar Pradesh,Siddharth Nagar,Naugarh,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,930,950,940
+816,Uttar Pradesh,Siddharth Nagar,Naugarh,Brinjal,Round/Long,FAQ,28-05-2023,1740,1780,1760
+817,Uttar Pradesh,Siddharth Nagar,Naugarh,Ginger(Green),Green Ginger,FAQ,28-05-2023,8360,8385,8380
+818,Uttar Pradesh,Siddharth Nagar,Naugarh,Green Chilli,Green Chilly,FAQ,28-05-2023,2040,2060,2050
+819,Uttar Pradesh,Siddharth Nagar,Naugarh,Gur(Jaggery),Red,FAQ,28-05-2023,3840,3860,3850
+820,Uttar Pradesh,Siddharth Nagar,Naugarh,Mango,Safeda,Medium,28-05-2023,3485,3550,3500
+821,Uttar Pradesh,Siddharth Nagar,Naugarh,Mousambi(Sweet Lime),Mousambi,Medium,28-05-2023,3810,3890,3850
+822,Uttar Pradesh,Siddharth Nagar,Naugarh,Mustard,Sarson(Black),FAQ,28-05-2023,5540,5560,5550
+823,Uttar Pradesh,Siddharth Nagar,Naugarh,Pointed gourd (Parval),Pointed gourd (Parval),FAQ,28-05-2023,3010,3030,3020
+824,Uttar Pradesh,Siddharth Nagar,Naugarh,Pomegranate,Pomogranate,Medium,28-05-2023,6140,6160,6150
+825,Uttar Pradesh,Sultanpur,Jafarganj,Apple,Delicious,Medium,28-05-2023,9000,9200,9100
+826,Uttar Pradesh,Sultanpur,Jafarganj,Banana,Banana - Ripe,Medium,28-05-2023,3700,3800,3750
+827,Uttar Pradesh,Sultanpur,Jafarganj,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,28-05-2023,5650,5750,5700
+828,Uttar Pradesh,Sultanpur,Jafarganj,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,1430,1520,1475
+829,Uttar Pradesh,Sultanpur,Jafarganj,Bitter gourd,Bitter Gourd,FAQ,28-05-2023,1650,1750,1690
+830,Uttar Pradesh,Sultanpur,Jafarganj,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,1000,1100,1050
+831,Uttar Pradesh,Sultanpur,Jafarganj,Brinjal,Brinjal,FAQ,28-05-2023,1700,1800,1750
+832,Uttar Pradesh,Sultanpur,Jafarganj,Carrot,Carrot,FAQ,28-05-2023,1950,2030,1980
+833,Uttar Pradesh,Sultanpur,Jafarganj,Cowpea(Veg),Cowpea (Veg),FAQ,28-05-2023,1150,1250,1200
+834,Uttar Pradesh,Sultanpur,Jafarganj,Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,1450,1550,1480
+835,Uttar Pradesh,Sultanpur,Jafarganj,Garlic,Desi,FAQ,28-05-2023,4680,4760,4725
+836,Uttar Pradesh,Sultanpur,Jafarganj,Grapes,Green,Medium,28-05-2023,4050,4150,4100
+837,Uttar Pradesh,Sultanpur,Jafarganj,Green Chilli,Green Chilly,FAQ,28-05-2023,2250,2350,2280
+838,Uttar Pradesh,Sultanpur,Jafarganj,Gur(Jaggery),Yellow,FAQ,28-05-2023,3840,3920,3875
+839,Uttar Pradesh,Sultanpur,Jafarganj,Jack Fruit,Jack Fruit,Medium,28-05-2023,1750,1880,1780
+840,Uttar Pradesh,Sultanpur,Jafarganj,Karbuja(Musk Melon),Karbhuja,Medium,28-05-2023,1420,1500,1460
+841,Uttar Pradesh,Sultanpur,Jafarganj,Lemon,Lemon,FAQ,28-05-2023,4350,4450,4400
+842,Uttar Pradesh,Sultanpur,Jafarganj,Lentil (Masur)(Whole),Kala Masoor New,FAQ,28-05-2023,7050,7150,7080
+843,Uttar Pradesh,Sultanpur,Jafarganj,Mango,Dusheri,Medium,28-05-2023,3600,3700,3650
+844,Uttar Pradesh,Sultanpur,Jafarganj,Mousambi(Sweet Lime),Mousambi,Medium,28-05-2023,3600,3700,3650
+845,Uttar Pradesh,Sultanpur,Jafarganj,Mustard,Sarson(Black),FAQ,28-05-2023,5480,5560,5520
+846,Uttar Pradesh,Sultanpur,Jafarganj,Onion,Red,FAQ,28-05-2023,1150,1250,1200
+847,Uttar Pradesh,Sultanpur,Jafarganj,Paddy(Dhan)(Common),Common,FAQ,28-05-2023,1840,1900,1865
+848,Uttar Pradesh,Sultanpur,Jafarganj,Papaya,Papaya,Medium,28-05-2023,2460,2560,2510
+849,Uttar Pradesh,Sultanpur,Jafarganj,Pointed gourd (Parval),Pointed gourd (Parval),FAQ,28-05-2023,3350,3450,3400
+850,Uttar Pradesh,Sultanpur,Jafarganj,Pomegranate,Pomogranate,Large,28-05-2023,6200,6350,6260
+851,Uttar Pradesh,Sultanpur,Jafarganj,Potato,Badshah,FAQ,28-05-2023,1000,1080,1045
+852,Uttar Pradesh,Sultanpur,Jafarganj,Pumpkin,Pumpkin,FAQ,28-05-2023,920,1000,960
+853,Uttar Pradesh,Sultanpur,Jafarganj,Rice,III,FAQ,28-05-2023,2550,2630,2580
+854,Uttar Pradesh,Sultanpur,Jafarganj,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,28-05-2023,1200,1260,1230
+855,Uttar Pradesh,Sultanpur,Jafarganj,Tomato,Deshi,FAQ,28-05-2023,900,1000,950
+856,Uttar Pradesh,Sultanpur,Jafarganj,Water Melon,Water Melon,Medium,28-05-2023,1000,1100,1050
+857,Uttar Pradesh,Sultanpur,Jafarganj,Wheat,Dara,FAQ,28-05-2023,2230,2300,2275
+858,Uttar Pradesh,Sultanpur,Sultanpur,Apple,Delicious,Medium,28-05-2023,9000,9300,9100
+859,Uttar Pradesh,Sultanpur,Sultanpur,Banana - Green,Banana - Green,FAQ,28-05-2023,1800,2000,1900
+860,Uttar Pradesh,Sultanpur,Sultanpur,Bengal Gram(Gram)(Whole),Desi (Whole),FAQ,28-05-2023,5600,5800,5700
+861,Uttar Pradesh,Sultanpur,Sultanpur,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,1300,1500,1400
+862,Uttar Pradesh,Sultanpur,Sultanpur,Bitter gourd,Bitter Gourd,FAQ,28-05-2023,1585,1760,1675
+863,Uttar Pradesh,Sultanpur,Sultanpur,Black Gram (Urd Beans)(Whole),Black Gram (Whole),FAQ,28-05-2023,8300,8500,8400
+864,Uttar Pradesh,Sultanpur,Sultanpur,Bottle gourd,Bottle Gourd,FAQ,28-05-2023,975,1115,1050
+865,Uttar Pradesh,Sultanpur,Sultanpur,Brinjal,Brinjal,FAQ,28-05-2023,1690,1830,1750
+866,Uttar Pradesh,Sultanpur,Sultanpur,Capsicum,Capsicum,FAQ,28-05-2023,1640,1830,1725
+867,Uttar Pradesh,Sultanpur,Sultanpur,Carrot,Carrot,FAQ,28-05-2023,1900,2100,2000
+868,Uttar Pradesh,Sultanpur,Sultanpur,Cowpea(Veg),Cowpea (Veg),FAQ,28-05-2023,1100,1270,1185
+869,Uttar Pradesh,Sultanpur,Sultanpur,Cucumbar(Kheera),Cucumbar,FAQ,28-05-2023,1400,1570,1485
+870,Uttar Pradesh,Sultanpur,Sultanpur,Garlic,Garlic,FAQ,28-05-2023,4630,4825,4725
+871,Uttar Pradesh,Sultanpur,Sultanpur,Grapes,Green,Medium,28-05-2023,4030,4250,4125
+872,Uttar Pradesh,Sultanpur,Sultanpur,Green Chilli,Green Chilly,FAQ,28-05-2023,2150,2350,2250
+873,Uttar Pradesh,Sultanpur,Sultanpur,Green Gram (Moong)(Whole),Local (Whole),FAQ,28-05-2023,8320,8525,8415
+874,Uttar Pradesh,Sultanpur,Sultanpur,Jack Fruit,Jack Fruit,Medium,28-05-2023,1700,1860,1790
+875,Uttar Pradesh,Sultanpur,Sultanpur,Karbuja(Musk Melon),Karbhuja,Medium,28-05-2023,1400,1600,1500
+876,Uttar Pradesh,Sultanpur,Sultanpur,Lemon,Lemon,FAQ,28-05-2023,4300,4520,4400
+877,Uttar Pradesh,Sultanpur,Sultanpur,Lentil (Masur)(Whole),Kala Masoor New,FAQ,28-05-2023,7000,7200,7100
+878,Uttar Pradesh,Sultanpur,Sultanpur,Mango,Badami,Medium,28-05-2023,3600,3830,3700
+879,Uttar Pradesh,Sultanpur,Sultanpur,Mousambi(Sweet Lime),Mousambi,Medium,28-05-2023,3550,3725,3635
+880,Uttar Pradesh,Sultanpur,Sultanpur,Mustard,Mustard,FAQ,28-05-2023,5400,5585,5490
+881,Uttar Pradesh,Sultanpur,Sultanpur,Onion,Red,FAQ,28-05-2023,1100,1300,1200
+882,Uttar Pradesh,Sultanpur,Sultanpur,Paddy(Dhan)(Common),Common,FAQ,28-05-2023,1800,1930,1860
+883,Uttar Pradesh,Sultanpur,Sultanpur,Papaya,Papaya,Medium,28-05-2023,2430,2650,2520
+884,Uttar Pradesh,Sultanpur,Sultanpur,Peas(Dry),Peas(Dry),FAQ,28-05-2023,5690,5820,5750
+885,Uttar Pradesh,Sultanpur,Sultanpur,Pointed gourd (Parval),Pointed gourd (Parval),FAQ,28-05-2023,3300,3500,3400
+886,Uttar Pradesh,Sultanpur,Sultanpur,Pomegranate,Pomogranate,Medium,28-05-2023,6100,6450,6250
+887,Uttar Pradesh,Sultanpur,Sultanpur,Potato,Badshah,FAQ,28-05-2023,985,1120,1045
+888,Uttar Pradesh,Sultanpur,Sultanpur,Pumpkin,Pumpkin,FAQ,28-05-2023,900,1025,960
+889,Uttar Pradesh,Sultanpur,Sultanpur,Rice,III,FAQ,28-05-2023,2500,2700,2600
+890,Uttar Pradesh,Sultanpur,Sultanpur,Sponge gourd,Sponge gourd,FAQ,28-05-2023,1150,1330,1225
+891,Uttar Pradesh,Sultanpur,Sultanpur,Tomato,Deshi,FAQ,28-05-2023,880,1030,950
+892,Uttar Pradesh,Sultanpur,Sultanpur,Wheat,Dara,FAQ,28-05-2023,2200,2350,2270
+893,Uttar Pradesh,Unnao,Purwa,Onion,Red,FAQ,28-05-2023,950,1050,1000
+894,Uttar Pradesh,Unnao,Purwa,Potato,Desi,FAQ,28-05-2023,885,980,935
+895,Uttrakhand,Dehradoon,Vikasnagar,Banana,Other,Medium,28-05-2023,900,1200,1200
+896,Uttrakhand,Dehradoon,Vikasnagar,Bhindi(Ladies Finger),Other,FAQ,28-05-2023,1200,4000,1500
+897,Uttrakhand,Dehradoon,Vikasnagar,Bitter gourd,Other,FAQ,28-05-2023,1000,1500,1500
+898,Uttrakhand,Dehradoon,Vikasnagar,Bottle gourd,Other,FAQ,28-05-2023,350,900,900
+899,Uttrakhand,Dehradoon,Vikasnagar,Cauliflower,Other,FAQ,28-05-2023,250,1400,1400
+900,Uttrakhand,Dehradoon,Vikasnagar,Cucumbar(Kheera),Other,FAQ,28-05-2023,600,1000,1000
+901,Uttrakhand,Dehradoon,Vikasnagar,Green Chilli,Other,FAQ,28-05-2023,500,1800,1800
+902,Uttrakhand,Dehradoon,Vikasnagar,Onion,Other,FAQ,28-05-2023,1100,1100,1100
+903,Uttrakhand,Dehradoon,Vikasnagar,Pumpkin,Other,FAQ,28-05-2023,400,800,800
+904,Uttrakhand,Dehradoon,Vikasnagar,Sponge gourd,Other,FAQ,28-05-2023,700,1200,1200
+905,Uttrakhand,Haridwar,Lakshar,Water Melon,Other,Medium,28-05-2023,400,500,450
+906,Uttrakhand,Haridwar,Manglaur,Banana,Other,Medium,28-05-2023,1500,1700,1600
+907,Uttrakhand,Haridwar,Manglaur,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,1000,1200,1100
+908,Uttrakhand,Haridwar,Manglaur,Bitter gourd,Other,FAQ,28-05-2023,800,1000,900
+909,Uttrakhand,Haridwar,Manglaur,Bottle gourd,Other,FAQ,28-05-2023,500,700,600
+910,Uttrakhand,Haridwar,Manglaur,Brinjal,Other,FAQ,28-05-2023,800,1000,900
+911,Uttrakhand,Haridwar,Manglaur,Capsicum,Capsicum,FAQ,28-05-2023,1000,1200,1100
+912,Uttrakhand,Haridwar,Manglaur,Cauliflower,Other,FAQ,28-05-2023,600,800,700
+913,Uttrakhand,Haridwar,Manglaur,Chikoos(Sapota),Other,Medium,28-05-2023,2000,2200,2100
+914,Uttrakhand,Haridwar,Manglaur,Cucumbar(Kheera),Other,FAQ,28-05-2023,800,1000,900
+915,Uttrakhand,Haridwar,Manglaur,Green Chilli,Green Chilly,FAQ,28-05-2023,2500,2700,2600
+916,Uttrakhand,Haridwar,Manglaur,Karbuja(Musk Melon),Other,Medium,28-05-2023,800,1000,900
+917,Uttrakhand,Haridwar,Manglaur,Lemon,Other,FAQ,28-05-2023,2800,3000,2900
+918,Uttrakhand,Haridwar,Manglaur,Litchi,Other,Medium,28-05-2023,2000,2200,2100
+919,Uttrakhand,Haridwar,Manglaur,Mango,Other,Medium,28-05-2023,2000,2200,2100
+920,Uttrakhand,Haridwar,Manglaur,Mousambi(Sweet Lime),Other,Medium,28-05-2023,2500,2700,2600
+921,Uttrakhand,Haridwar,Manglaur,Pomegranate,Other,Medium,28-05-2023,3000,3200,3100
+922,Uttrakhand,Haridwar,Manglaur,Pumpkin,Other,FAQ,28-05-2023,700,900,800
+923,Uttrakhand,Haridwar,Manglaur,Sponge gourd,Other,FAQ,28-05-2023,800,1000,900
+924,Uttrakhand,Haridwar,Manglaur,Tomato,Other,FAQ,28-05-2023,1500,1700,1600
+925,Uttrakhand,Haridwar,Manglaur,Water Melon,Other,Medium,28-05-2023,600,800,700
+926,Uttrakhand,Haridwar,Roorkee,Bhindi(Ladies Finger),Other,FAQ,28-05-2023,800,1200,1000
+927,Uttrakhand,Haridwar,Roorkee,Karbuja(Musk Melon),Other,Medium,28-05-2023,1200,2500,1800
+928,Uttrakhand,Haridwar,Roorkee,Onion,Other,FAQ,28-05-2023,800,1200,1000
+929,Uttrakhand,Haridwar,Roorkee,Potato,Other,FAQ,28-05-2023,500,700,600
+930,Uttrakhand,Haridwar,Roorkee,Pumpkin,Other,FAQ,28-05-2023,400,600,500
+931,Uttrakhand,Haridwar,Roorkee,Tomato,Other,FAQ,28-05-2023,800,1200,1000
+932,Uttrakhand,Haridwar,Roorkee,Water Melon,Other,Medium,28-05-2023,800,1000,900
+933,Uttrakhand,Nanital,Haldwani,Apricot(Jardalu/Khumani),Other,Large,28-05-2023,2500,4100,2900
+934,Uttrakhand,Nanital,Haldwani,Banana,Other,Large,28-05-2023,800,1200,900
+935,Uttrakhand,Nanital,Haldwani,Bottle gourd,Other,FAQ,28-05-2023,800,1100,900
+936,Uttrakhand,Nanital,Haldwani,Cauliflower,Other,FAQ,28-05-2023,800,2900,1200
+937,Uttrakhand,Nanital,Haldwani,Cucumbar(Kheera),Other,FAQ,28-05-2023,800,1200,1000
+938,Uttrakhand,Nanital,Haldwani,Green Chilli,Other,FAQ,28-05-2023,1000,1200,1100
+939,Uttrakhand,Nanital,Haldwani,Jack Fruit,Other,Large,28-05-2023,800,1600,1100
+940,Uttrakhand,Nanital,Haldwani,Litchi,Other,Large,28-05-2023,3500,4000,3800
+941,Uttrakhand,Nanital,Haldwani,Mango,Other,Large,28-05-2023,3500,4000,3700
+942,Uttrakhand,Nanital,Haldwani,Onion,Other,FAQ,28-05-2023,400,1400,700
+943,Uttrakhand,Nanital,Haldwani,Peach,Other,Large,28-05-2023,1600,4000,2500
+944,Uttrakhand,Nanital,Haldwani,Plum,Other,Large,28-05-2023,2200,3000,2500
+945,Uttrakhand,Nanital,Haldwani,Potato,Other,FAQ,28-05-2023,500,1600,1000
+946,Uttrakhand,Nanital,Haldwani,Tomato,Other,FAQ,28-05-2023,550,1000,800
+947,Uttrakhand,UdhamSinghNagar,Sitarganj,Banana,Other,Medium,28-05-2023,1600,1800,1700
+948,Uttrakhand,UdhamSinghNagar,Sitarganj,Bhindi(Ladies Finger),Other,FAQ,28-05-2023,1600,1800,1700
+949,Uttrakhand,UdhamSinghNagar,Sitarganj,Brinjal,Other,FAQ,28-05-2023,900,1100,1000
+950,Uttrakhand,UdhamSinghNagar,Sitarganj,Cabbage,Other,FAQ,28-05-2023,900,1100,1000
+951,Uttrakhand,UdhamSinghNagar,Sitarganj,Cucumbar(Kheera),Other,FAQ,28-05-2023,900,1100,1000
+952,Uttrakhand,UdhamSinghNagar,Sitarganj,Jack Fruit,Other,Medium,28-05-2023,1600,1800,1700
+953,Uttrakhand,UdhamSinghNagar,Sitarganj,Karbuja(Musk Melon),Other,Medium,28-05-2023,1700,1900,1800
+954,Uttrakhand,UdhamSinghNagar,Sitarganj,Lemon,Other,FAQ,28-05-2023,7000,7200,7100
+955,Uttrakhand,UdhamSinghNagar,Sitarganj,Mango,Other,Medium,28-05-2023,5100,5300,5200
+956,Uttrakhand,UdhamSinghNagar,Sitarganj,Peach,Other,Medium,28-05-2023,2900,3100,3000
+957,Uttrakhand,UdhamSinghNagar,Sitarganj,Raddish,Other,FAQ,28-05-2023,900,1100,1000
+958,Uttrakhand,UdhamSinghNagar,Sitarganj,Tomato,Other,FAQ,28-05-2023,900,1100,1000
+959,Uttrakhand,UdhamSinghNagar,Sitarganj,Water Melon,Other,Medium,28-05-2023,800,1000,900
+960,Uttrakhand,UdhamSinghNagar,Sitarganj,Wheat,Other,FAQ,28-05-2023,2220,2300,2250
+961,West Bengal,Burdwan,Kalna,Brinjal,Other,FAQ,28-05-2023,2700,2800,2800
+962,West Bengal,Burdwan,Kalna,Cucumbar(Kheera),Other,FAQ,28-05-2023,750,800,800
+963,West Bengal,Burdwan,Kalna,Green Chilli,Other,FAQ,28-05-2023,4000,4200,4100
+964,West Bengal,Burdwan,Kalna,Onion,Local,FAQ,28-05-2023,1500,1600,1500
+965,West Bengal,Burdwan,Kalna,Onion,Other,FAQ,28-05-2023,1700,1800,1800
+966,West Bengal,Burdwan,Kalna,Potato,Jyoti,FAQ,28-05-2023,1340,1360,1350
+967,West Bengal,Burdwan,Kalna,Rice,Fine,FAQ,28-05-2023,3950,4000,4000
+968,West Bengal,Burdwan,Kalna,Rice,Other,FAQ,28-05-2023,2800,2850,2850
+969,West Bengal,Burdwan,Kalna,Sweet Pumpkin,Other,FAQ,28-05-2023,1700,1800,1700
+970,West Bengal,Burdwan,Kalna,Tomato,Other,FAQ,28-05-2023,2000,2200,2100
+971,West Bengal,Coochbehar,Dinhata,Bhindi(Ladies Finger),Bhindi,FAQ,28-05-2023,800,1000,900
+972,West Bengal,Coochbehar,Dinhata,Green Chilli,Green Chilly,FAQ,28-05-2023,4000,4200,4100
+973,West Bengal,Coochbehar,Dinhata,Jute,TD-5,FAQ,28-05-2023,5500,5650,5600
+974,West Bengal,Coochbehar,Dinhata,Pointed gourd (Parval),Other,FAQ,28-05-2023,2500,2700,2600
+975,West Bengal,Coochbehar,Dinhata,Potato,Jyoti,FAQ,28-05-2023,1120,1160,1140
+976,West Bengal,Coochbehar,Dinhata,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,28-05-2023,1000,1200,1100
+977,West Bengal,Coochbehar,Haldibari,Bitter gourd,Bitter Gourd,FAQ,28-05-2023,1500,1700,1650
+978,West Bengal,Coochbehar,Toofanganj,Brinjal,Brinjal,FAQ,28-05-2023,1000,1200,1100
+979,West Bengal,Coochbehar,Toofanganj,Pointed gourd (Parval),Other,FAQ,28-05-2023,2600,2800,2700
+980,West Bengal,Coochbehar,Toofanganj,Potato,Jyoti,FAQ,28-05-2023,1120,1160,1140
+981,West Bengal,Coochbehar,Toofanganj,Ridgeguard(Tori),Ridgeguard(Tori),FAQ,28-05-2023,1000,1200,1100
+982,West Bengal,Coochbehar,Toofanganj,Tomato,Local,FAQ,28-05-2023,1300,1500,1400
+983,West Bengal,Darjeeling,Kalimpong,Cabbage,Cabbage,FAQ,28-05-2023,2000,3000,2500
+984,West Bengal,Darjeeling,Kalimpong,Carrot,Other,FAQ,28-05-2023,6000,8000,7000
+985,West Bengal,Darjeeling,Kalimpong,Cauliflower,Local,FAQ,28-05-2023,3000,4000,3500
+986,West Bengal,Darjeeling,Kalimpong,French Beans (Frasbean),Other,FAQ,28-05-2023,4000,6000,5000
+987,West Bengal,Darjeeling,Kalimpong,Potato,Jyoti,FAQ,28-05-2023,2500,3000,2700
+988,West Bengal,Darjeeling,Kalimpong,Rice,Other,FAQ,28-05-2023,5000,7000,6000
+989,West Bengal,Hooghly,Pandua,Onion,Nasik,FAQ,28-05-2023,1300,1500,1400
+990,West Bengal,Hooghly,Pandua,Pointed gourd (Parval),Pointed gourd (Parval),FAQ,28-05-2023,2600,2800,2700
+991,West Bengal,Hooghly,Pandua,Potato,Jyoti,FAQ,28-05-2023,1360,1400,1380
+992,West Bengal,Hooghly,Pandua,Rice,Ratnachudi (718 5-749),FAQ,28-05-2023,3600,3800,3700
+993,West Bengal,Hooghly,Pandua,Tomato,Hybrid,FAQ,28-05-2023,1600,1800,1700
+994,West Bengal,Hooghly,Sheoraphuly,Onion,Nasik,FAQ,28-05-2023,1500,1600,1550
+995,West Bengal,Hooghly,Sheoraphuly,Pointed gourd (Parval),Pointed gourd (Parval),FAQ,28-05-2023,2800,3000,2900
+996,West Bengal,Hooghly,Sheoraphuly,Potato,Jyoti,FAQ,28-05-2023,1400,1440,1420
+997,West Bengal,Hooghly,Sheoraphuly,Rice,Ratnachudi (718 5-749),FAQ,28-05-2023,3700,3900,3800
+998,West Bengal,Hooghly,Sheoraphuly,Tomato,Other,FAQ,28-05-2023,1800,2000,1900
+999,West Bengal,Malda,English Bazar,Green Gram Dal (Moong Dal),Green Gram Dal,FAQ,28-05-2023,9800,10500,10000
+1000,West Bengal,Malda,English Bazar,Lentil (Masur)(Whole),Masur Dal,FAQ,28-05-2023,7800,10200,9500
+1001,West Bengal,Malda,English Bazar,Onion,Local,FAQ,28-05-2023,900,1100,1000
+1002,West Bengal,Malda,English Bazar,Onion,Other,FAQ,28-05-2023,1300,1600,1400
+1003,West Bengal,Malda,English Bazar,Potato,Jyoti,FAQ,28-05-2023,1350,1550,1450
+1004,West Bengal,Malda,English Bazar,Potato,Local,FAQ,28-05-2023,1000,1200,1100
+1005,West Bengal,Malda,English Bazar,Rice,Common,FAQ,28-05-2023,3400,3550,3500
+1006,West Bengal,Murshidabad,Beldanga,Jute,TD-5,FAQ,28-05-2023,5250,5350,5300
+1007,West Bengal,Murshidabad,Beldanga,Mustard,Yellow (Black),FAQ,28-05-2023,5460,5540,5500
+1008,West Bengal,Murshidabad,Beldanga,Potato,Jyoti,FAQ,28-05-2023,1285,1320,1300
+1009,West Bengal,Murshidabad,Beldanga,Rice,Other,FAQ,28-05-2023,3170,3230,3200
