@@ -23,6 +23,7 @@ def nearest_centre():
 
 
   nearest_location = locations[index]
-  return nearest_location['name'] , distance
+  return nearest_location['name'] , distance, nearest_location['latitude'], nearest_location['longitude']
+
 
   

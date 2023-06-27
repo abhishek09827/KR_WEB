@@ -1,15 +1,18 @@
-from flask import Flask , jsonify
+from flask import Flask , jsonify, request
 from flask_cors import CORS
 from scrapper import scrape_justdial
 from nearest import nearest_centre
 import geocoder
+import numpy as np
+import pickle
 from scipy.spatial import KDTree
 
-
+crop_pred = pickle.load(open("cropRecommend.pkl", "rb"))
 
 
 app = Flask(__name__)
 CORS(app)
+
 
 
 @app.route('/')
@@ -36,7 +39,38 @@ def nearest_centre():
     distance, index = tree.query((user_latitude, user_longitude))
     nearest_location = locations[index]
 
-    return jsonify({'nearestCentre': nearest_location['name'], 'distance': distance})
+    return jsonify({
+        'nearestCentre': nearest_location['name'],
+        'distance': distance,
+        'latitude': nearest_location['latitude'],
+        'longitude': nearest_location['longitude']
+    })
+@app.route("/predict", methods=["POST"])
+def predict():
+    data = request.get_json()
+    print("Received data:", data)
+    N = float(data["N"])
+    P = float(data["input_val"])
+    K = float(data["P"])
+    Temperature = float(data["Temperature"])
+    Humidity = float(data["Humidity"])
+    pH = float(data["pH"])
+    Rainfall = float(data["Rainfall"])    
+    
+        
+
+
+    print('N:', N)
+    print('P:', P)
+    print('Humidity:', Humidity)
+       
+    features = np.array([[N, P, K, Temperature, Humidity, pH, Rainfall]])
+        
+    prediction = crop_pred.predict(features)
+    prediction_list = prediction.tolist() 
+    return jsonify({
+            "pred": prediction_list 
+    })
 
     
     

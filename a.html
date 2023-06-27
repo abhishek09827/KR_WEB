@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Drop Dowm</title>
+  </head>
+  <body>
+    <style>
+      body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+      }
+      .main {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 2px 2px 2px 2px gray;
+        flex-direction: column;
+        height: 200px;
+        width: 600px;
+        margin-top: 30px;
+        padding: 15px;
+      }
+
+      .main select {
+        width: inherit;
+        height: 30px;
+      }
+
+      .main h1 {
+        text-decoration: solid;
+        text-transform: uppercase;
+        font-family: "Times New Roman", Times, serif;
+      }
+      #capital {
+        font-size: 24px;
+        color: gold;
+        font-weight: bold;
+      }
+    </style>
+    <div class="main">
+      <h1>Country and Its Capitals</h1>
+      <div id="capital"></div>
+
+      <label for="country">Select a country:</label>
+      <select id="country" onchange="displayCapital()">
+        <option value="">Select a country</option>
+        <option value="New Delhi">India</option>
+        <option value="Washington DC">United States</option>
+        <option value="London">United Kingdom</option>
+        <option value="Dhaka">Bangladesh</option>
+        <option value="Tokyo">Japan</option>
+      </select>
+    </div>
+
+    <script>
+      function displayCapital() {
+        var selectElement = document.getElementById("country");
+        var capitalContainer = document.getElementById("capital");
+        var cap = selectElement.value;
+
+        capitalContainer.innerHTML = "";
+
+        if (cap) {
+          capitalContainer.innerHTML = "<p>The capital city is " + cap + "</p>";
+        }
+      }
+    </script>
+  </body>
+</html>

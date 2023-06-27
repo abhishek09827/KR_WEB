@@ -1,0 +1,48 @@
+.about {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  perspective: 3000px;
+  height: 50vh;
+  flex: 1;
+}
+
+.image {
+  width: 50%;
+  transform-style: preserve-3d;
+}
+
+.image img {
+  transform: rotateX(70deg) rotateZ(-60deg) translate3d(-120px, 0px, 70px);
+  box-shadow: -80px 60px 15px 5px rgba(0, 0, 0, 0.4);
+  transition: all 0.4s;
+  filter: grayscale(80);
+  transform-style: preserve-3d;
+  height: 200px;
+  width: 400px;
+  border-radius: 15px 0;
+}
+.image:hover img {
+  transform: rotateX(0deg) rotateZ(0deg) translate3d(0px, 0px, 0px);
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  filter: grayscale(0);
+}
+
+.desc {
+  flex: 3;
+  margin-left: 120px;
+  border-radius: 1px;
+  border-color: black;
+
+  box-shadow: 5px 0px 0px 0px rgba(0, 0, 0, 0);
+}
+.desc:hover {
+  filter: drop-shadow(100);
+}

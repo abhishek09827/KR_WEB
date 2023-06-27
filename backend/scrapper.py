@@ -13,11 +13,12 @@ def scrape_justdial():
     driver = webdriver.Chrome()
 
     driver.get('https://www.justdial.com/Bangalore/Soil-Testing-Laboratory-near-me')
+    driver.minimize_window()
     up_location = driver.find_element(By.CSS_SELECTOR, 'div[class*="input_location_box"]')
     up_location.click()
     det_location = driver.find_element(By.CSS_SELECTOR, 'div[class*="input_search_result"]')
     det_location.click()
-    driver.implicitly_wait(30)
+    driver.implicitly_wait(60)
     sort = driver.find_element(By.CSS_SELECTOR, 'div[class*="jsx-6ab5af3a8693e5db"]')
     sort.click()
 
