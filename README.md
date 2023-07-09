@@ -46,9 +46,8 @@ Contributions are always welcome! If you'd like to contribute to this project, p
 
 
 - [Python](https://www.python.org/)
-- [Django](https://www.djangoproject.com/)
+- [Flask]
 - [TensorFlow](https://www.tensorflow.org/)
-- [PostgreSQL](https://www.postgresql.org/)
 - [HTML/CSS/JavaScript](https://www.w3.org/standards/webdesign/)
 
 Please feel free to reach out if you have any questions or require further assistance!
